@@ -2,6 +2,12 @@ const TOKEN_KEY = "sm_token";
 const USER_KEY = "sm_user";
 const DB_KEY = "sm_static_db";
 
+// Startdaten werden mitgebaut (data/db.json) — kein Extra-Download,
+// funktioniert also auch ohne Backend und ohne api-seed.json.
+import seedSource from "../data/db.json";
+
+const SEED = () => JSON.parse(JSON.stringify(seedSource));
+
 // Statischer Betrieb: ohne Express-Backend (GitHub Pages) laufen die Daten
 // aus public/api-seed.json im localStorage. Der Login arbeitet dann lokal.
 const COLLECTIONS = [
@@ -54,9 +60,7 @@ function writeDb(db) {
 async function ensureDb() {
   const db = readDb();
   if (db) return db;
-  const res = await fetch("api-seed.json", { cache: "no-store" });
-  if (!res.ok) throw new Error("seed-missing");
-  const seed = await res.json();
+  const seed = SEED();
   writeDb(seed);
   return seed;
 }

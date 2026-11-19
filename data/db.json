@@ -64,6 +64,14 @@
       "password": "Neodeo34!!",
       "role": "student",
       "avatar": "HH"
+    },
+    {
+      "id": 7,
+      "name": "Dante Grossman",
+      "email": "dante.grossman@gmail.com",
+      "password": "176717",
+      "role": "student",
+      "avatar": "DG"
     }
   ],
   "classes": [
@@ -1210,6 +1218,13 @@
       "lastName": "Holovashov",
       "classId": 1,
       "email": "frislop21@gmail.com"
+    },
+    {
+      "id": 8,
+      "firstName": "Dante",
+      "lastName": "Grossman",
+      "classId": 1,
+      "email": "dante.grossman@gmail.com"
     }
   ],
   "events": [
@@ -4635,5 +4650,5 @@
       "order": 4
     }
   ],
-  "seedVersion": "2026-11-19T18:24:07.368Z"
+  "seedVersion": "2026-11-19T18:44:08.220Z"
 }

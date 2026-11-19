@@ -74,21 +74,62 @@ export default function Schedule() {
         ? teacher(l.oldTeacherId)
         : null;
 
-    const strike = cancelled ? " is-struck" : "";
+    let left;
+    if (cancelled) {
+      left = <span className="timetable-left">{current?.short || ""}</span>;
+    } else if (oldSubject) {
+      left = (
+        <span className="timetable-left">
+          <span className="visual-diff-old me-1">({oldSubject.short})</span>
+          <wbr />
+          <span className="visual-diff-new">{current?.short || ""}</span>
+        </span>
+      );
+    } else if (oldTeacher) {
+      left = (
+        <span className="timetable-left">
+          <span className="visual-diff-unchanged">{current?.short || ""}</span>
+        </span>
+      );
+    } else {
+      left = (
+        <span className="timetable-left">
+          <span>{pad(current?.short || "")}</span>
+        </span>
+      );
+    }
+
+    const right = oldTeacher ? (
+      <span className="timetable-right">
+        <span style={{ color: "red" }}>
+          <span>
+            <span>(</span>
+            <span>{pad(oldTeacher.short)}</span>
+            <span>)</span>
+          </span>
+        </span>
+        <span>
+          <span>
+            <span style={{ color: "green" }}>{pad(currentTeacher?.short || "")}</span>
+          </span>
+        </span>
+      </span>
+    ) : (
+      <span className="timetable-right">
+        <span>
+          <span>
+            <span>{pad(currentTeacher?.short || "")}</span>
+          </span>
+        </span>
+      </span>
+    );
 
     return (
       <div className={`lesson-cell${cancelled ? " cancelled" : ""}`}>
-        <span className={`timetable-left${strike}`}>
-          {oldSubject ? <s className="lesson-old">{oldSubject.short}</s> : null}
-          {oldSubject ? <wbr /> : null}
-          <span>{pad(current?.short || "")}</span>
-        </span>
-        <span className="timetable-right">
-          {oldTeacher ? <s className="lesson-old">{pad(oldTeacher.short)}</s> : null}
-          <span>{pad(currentTeacher?.short || "")}</span>
-        </span>
+        {left}
+        {right}
         <div className="timetable-bottom-host">
-          <span className={`timetable-bottom${strike}`}>
+          <span className="timetable-bottom">
             <span>{pad(l.room || "")}</span>
           </span>
         </div>

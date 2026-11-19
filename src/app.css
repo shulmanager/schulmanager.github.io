@@ -166,3 +166,20 @@ main.main-content {
   font-size: 19px;
   max-width: 640px;
 }
+
+/* Vertretung: alte Werte durchgestrichen, keine Farben */
+.lesson-cell s.lesson-old {
+  text-decoration: line-through;
+  opacity: 0.7;
+  margin-right: 3px;
+}
+
+/* Entfallene Stunde: ganze Zelle durchgestrichen */
+.lesson-cell .is-struck,
+.lesson-cell.cancelled .timetable-left,
+.lesson-cell.cancelled .timetable-right,
+.lesson-cell.cancelled .timetable-bottom {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+

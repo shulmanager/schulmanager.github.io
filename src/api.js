@@ -58,9 +58,10 @@ function writeDb(db) {
 }
 
 async function ensureDb() {
-  const db = readDb();
-  if (db) return db;
   const seed = SEED();
+  const db = readDb();
+  // Neuer Seed im Build -> alten localStorage-Stand verwerfen
+  if (db && (db.seedVersion || "0") === (seed.seedVersion || "0")) return db;
   writeDb(seed);
   return seed;
 }

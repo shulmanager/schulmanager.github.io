@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useAuth } from "../auth.jsx";
 import { useData } from "../data.jsx";
@@ -49,7 +49,7 @@ export default function Layout({ children }) {
         <div className="container-md sm-navbar-content">
           <div className="logo">
             <Link to="/dashboard" aria-label="Zur Startseite des Schulmanagers">
-              <img src="/vendor/logo.svg" alt="Zur Startseite des Schulmanagers" />
+              <img src={`${import.meta.env.BASE_URL}vendor/logo.svg`} alt="Schulmanager" />
             </Link>
           </div>
 

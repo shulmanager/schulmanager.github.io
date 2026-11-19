@@ -1,7 +1,46 @@
-﻿import React, { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 import { useData } from "../data.jsx";
 import { api } from "../api.js";
 import { Tile, Modal, Field, Pill, formatDate } from "../components/ui.jsx";
+
+// Schuljahr 2026/27: Montag der KW 47 ist der 16.11.2026
+const SCHOOL_YEAR = 2026;
+const FALLBACK_WEEK = 47;
+const DAY_SHORT = ["", "Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"];
+
+function isoWeekMonday(week) {
+  const jan4 = new Date(Date.UTC(SCHOOL_YEAR, 0, 4));
+  const dow = jan4.getUTCDay() || 7;
+  const monday = new Date(jan4);
+  monday.setUTCDate(jan4.getUTCDate() - (dow - 1) + (week - 1) * 7);
+  return monday;
+}
+
+function lessonDayDate(row) {
+  const week = Number(row?.isoWeek) || FALLBACK_WEEK;
+  const day = Math.min(7, Math.max(1, Number(row?.day) || 1));
+  const d = isoWeekMonday(week);
+  d.setUTCDate(d.getUTCDate() + (day - 1));
+  const dd = String(d.getUTCDate()).padStart(2, "0");
+  const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
+  return `${DAY_SHORT[day]} ${dd}.${mm}.${d.getUTCFullYear()}`;
+}
+
+function lessonDayISO(row) {
+  const week = Number(row?.isoWeek) || FALLBACK_WEEK;
+  const day = Math.min(7, Math.max(1, Number(row?.day) || 1));
+  const d = isoWeekMonday(week);
+  d.setUTCDate(d.getUTCDate() + (day - 1));
+  return d.toISOString().slice(0, 10);
+}
+
+function isoWeekOf(date) {
+  const d = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+  const day = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - day);
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  return Math.ceil(((d - yearStart) / 86400000 + 1) / 7);
+}
 
 const SCHEMA = {
   users: {
@@ -141,7 +180,7 @@ const SCHEMA = {
   lessons: {
     label: "Stundenplan",
     fields: [
-      ["day", "Tag (1-5)", "number"],
+      ["day", "Datum", "number"],
       ["slot", "Stunde", "number"],
       ["week", "Woche", "select", ["A", "B"]],
       ["subjectId", "Fach", "ref", "subjects"],
@@ -368,6 +407,11 @@ export default function Admin() {
                         row[key] ? <Pill tone="ok">ja</Pill> : <Pill>nein</Pill>
                       ) : type === "ref" ? (
                         refLabel(ref, row[key])
+                      ) : active === "lessons" && key === "day" ? (
+                        <span>
+                          {lessonDayDate(row)}
+                          <span className="text-muted small ms-1">Tag {row[key]}</span>
+                        </span>
                       ) : key === "password" ? (
                         "••••••"
                       ) : type === "date" ? (
@@ -442,6 +486,19 @@ export default function Admin() {
                         </option>
                       ))}
                     </select>
+                  ) : active === "lessons" && key === "day" ? (
+                    <input
+                      className="form-control"
+                      type="date"
+                      value={lessonDayISO(draft)}
+                      onChange={(e) => {
+                        const v = e.target.value;
+                        if (!v) return;
+                        const d = new Date(v + "T00:00:00Z");
+                        const day = ((d.getUTCDay() + 6) % 7) + 1;
+                        setDraft((x) => ({ ...x, day, isoWeek: isoWeekOf(d) }));
+                      }}
+                    />
                   ) : (
                     <input
                       className="form-control"

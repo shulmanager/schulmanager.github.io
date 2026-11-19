@@ -1,0 +1,1558 @@
+[
+ {
+  "name": "13-1",
+  "id": 531180,
+  "aliases": [
+   "13-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-11-15T09:45:22.472Z",
+  "mainClassTeacherId": 818293,
+  "termId": 33567,
+  "roomId": 322037
+ },
+ {
+  "name": "6-2",
+  "id": 484309,
+  "aliases": [
+   "6-2"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.216Z",
+  "mainClassTeacherId": 818235,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "6-3",
+  "id": 484310,
+  "aliases": [
+   "6-3"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.280Z",
+  "mainClassTeacherId": 818295,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "6-1",
+  "id": 484308,
+  "aliases": [
+   "6-1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.150Z",
+  "mainClassTeacherId": 818231,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "7-5",
+  "id": 484307,
+  "aliases": [
+   "7-5"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.676Z",
+  "mainClassTeacherId": 818317,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "9-3",
+  "id": 484295,
+  "aliases": [
+   "9-3"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.183Z",
+  "mainClassTeacherId": 818322,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "9-4",
+  "id": 484294,
+  "aliases": [
+   "9-4"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.279Z",
+  "mainClassTeacherId": 818275,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "5-1",
+  "id": 484321,
+  "aliases": [
+   "5-1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:54.807Z",
+  "mainClassTeacherId": 818254,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "5-2",
+  "id": 484322,
+  "aliases": [
+   "5-2"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:55.699Z",
+  "mainClassTeacherId": 818229,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "5-3",
+  "id": 484323,
+  "aliases": [
+   "5-3"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:55.985Z",
+  "mainClassTeacherId": 818308,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "5-4",
+  "id": 484324,
+  "aliases": [
+   "5-4"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.062Z",
+  "mainClassTeacherId": 818302,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "5-5",
+  "id": 484325,
+  "aliases": [
+   "5-5"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.107Z",
+  "mainClassTeacherId": 818301,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "9-G1",
+  "id": 484326,
+  "aliases": [
+   "9-G1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.328Z",
+  "mainClassTeacherId": 818270,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "11-1",
+  "id": 484327,
+  "aliases": [
+   "11-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   11
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.735Z",
+  "mainClassTeacherId": 818237,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "11-3",
+  "id": 484317,
+  "aliases": [
+   "11-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   11
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.896Z",
+  "mainClassTeacherId": 818242,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "12-4",
+  "id": 484318,
+  "aliases": [
+   "12-4"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-29T13:43:51.142Z",
+  "mainClassTeacherId": 818260,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "12-5",
+  "id": 484319,
+  "aliases": [
+   "12-5"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-29T13:43:57.425Z",
+  "mainClassTeacherId": 818239,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "12-6",
+  "id": 484320,
+  "aliases": [
+   "12-6"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-29T13:44:02.537Z",
+  "mainClassTeacherId": 818271,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "13-3",
+  "id": 484316,
+  "aliases": [
+   "13-3"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-02-25T11:32:16.332Z",
+  "mainClassTeacherId": 818256,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "10-G2",
+  "id": 484330,
+  "aliases": [
+   "10-G2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.645Z",
+  "mainClassTeacherId": 818265,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "11-2",
+  "id": 484328,
+  "aliases": [
+   "11-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   11
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.825Z",
+  "mainClassTeacherId": 818286,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "12-3",
+  "id": 484329,
+  "aliases": [
+   "12-3"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-02-25T11:32:55.059Z",
+  "mainClassTeacherId": 818238,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "12-1",
+  "id": 484314,
+  "aliases": [
+   "12-1"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-02-25T11:32:49.424Z",
+  "mainClassTeacherId": 818293,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "AG",
+  "id": 484371,
+  "aliases": [
+   "AG"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": null,
+  "createdAt": "2026-01-28T12:26:54.251Z",
+  "updatedAt": "2026-01-28T12:27:36.464Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "GT",
+  "id": 484372,
+  "aliases": [
+   "GT"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": null,
+  "createdAt": "2026-01-28T12:26:54.251Z",
+  "updatedAt": "2026-01-28T12:27:36.467Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "HA",
+  "id": 484373,
+  "aliases": [
+   "HA"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": null,
+  "createdAt": "2026-01-28T12:26:54.251Z",
+  "updatedAt": "2026-01-28T12:27:36.469Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "KM",
+  "id": 484374,
+  "aliases": [
+   "KM"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": null,
+  "createdAt": "2026-01-28T12:26:54.251Z",
+  "updatedAt": "2026-01-28T12:27:36.471Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "N",
+  "id": 484375,
+  "aliases": [
+   "N"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": null,
+  "createdAt": "2026-01-28T12:26:54.251Z",
+  "updatedAt": "2026-01-28T12:27:36.474Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "TR",
+  "id": 484376,
+  "aliases": [
+   "TR"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": null,
+  "createdAt": "2026-01-28T12:26:54.251Z",
+  "updatedAt": "2026-01-28T12:27:36.477Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "8-2",
+  "id": 484298,
+  "aliases": [
+   "8-2"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.812Z",
+  "mainClassTeacherId": 818307,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "8-3",
+  "id": 484299,
+  "aliases": [
+   "8-3"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.870Z",
+  "mainClassTeacherId": 818246,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "9-2",
+  "id": 484293,
+  "aliases": [
+   "9-2"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.117Z",
+  "mainClassTeacherId": 818268,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "6-4",
+  "id": 484311,
+  "aliases": [
+   "6-4"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.335Z",
+  "mainClassTeacherId": 818313,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "6-5",
+  "id": 484312,
+  "aliases": [
+   "6-5"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.393Z",
+  "mainClassTeacherId": 818320,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "7-2",
+  "id": 484304,
+  "aliases": [
+   "7-2"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.510Z",
+  "mainClassTeacherId": 818267,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "7-3",
+  "id": 484305,
+  "aliases": [
+   "7-3"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.564Z",
+  "mainClassTeacherId": 818249,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "8-1",
+  "id": 484297,
+  "aliases": [
+   "8-1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.739Z",
+  "mainClassTeacherId": 818274,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "8-4",
+  "id": 484300,
+  "aliases": [
+   "8-4"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.924Z",
+  "mainClassTeacherId": 818284,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "10-3",
+  "id": 484291,
+  "aliases": [
+   "10-3"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.527Z",
+  "mainClassTeacherId": 818263,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "13-1",
+  "id": 484296,
+  "aliases": [
+   "13-1"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-02-25T11:32:35.879Z",
+  "mainClassTeacherId": 818251,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "7-1",
+  "id": 484303,
+  "aliases": [
+   "7-1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.451Z",
+  "mainClassTeacherId": 818233,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "8-5",
+  "id": 484301,
+  "aliases": [
+   "8-5"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.974Z",
+  "mainClassTeacherId": 818273,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "9-1",
+  "id": 484292,
+  "aliases": [
+   "9-1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.054Z",
+  "mainClassTeacherId": 818266,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "10-2",
+  "id": 484290,
+  "aliases": [
+   "10-2"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.469Z",
+  "mainClassTeacherId": 818314,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "10-G1",
+  "id": 484313,
+  "aliases": [
+   "10-G1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.586Z",
+  "mainClassTeacherId": 818277,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "12-2",
+  "id": 484315,
+  "aliases": [
+   "12-2"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-02-25T11:32:52.223Z",
+  "mainClassTeacherId": 818311,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "10-1",
+  "id": 484289,
+  "aliases": [
+   "10-1"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:57.403Z",
+  "mainClassTeacherId": 818236,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "13-2",
+  "id": 484302,
+  "aliases": [
+   "13-2"
+  ],
+  "isCourseSystem": true,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-02-25T11:32:26.142Z",
+  "mainClassTeacherId": 818228,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "11-1",
+  "id": 531200,
+  "aliases": [
+   "11-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   11
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-17T14:42:43.382Z",
+  "mainClassTeacherId": 818258,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "7-4",
+  "id": 484306,
+  "aliases": [
+   "7-4"
+  ],
+  "isCourseSystem": null,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-01-28T07:31:42.572Z",
+  "updatedAt": "2026-01-28T12:26:56.621Z",
+  "mainClassTeacherId": null,
+  "termId": 31058,
+  "roomId": null
+ },
+ {
+  "name": "5-1",
+  "id": 531195,
+  "aliases": [
+   "5-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.168Z",
+  "mainClassTeacherId": 818274,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "6-1",
+  "id": 531186,
+  "aliases": [
+   "6-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.252Z",
+  "mainClassTeacherId": 818254,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "6-2",
+  "id": 531187,
+  "aliases": [
+   "6-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.270Z",
+  "mainClassTeacherId": 818229,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "6-3",
+  "id": 531188,
+  "aliases": [
+   "6-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.284Z",
+  "mainClassTeacherId": 818308,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "5-4",
+  "id": 531198,
+  "aliases": [
+   "5-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.220Z",
+  "mainClassTeacherId": 818251,
+  "termId": 33567,
+  "roomId": 322034
+ },
+ {
+  "name": "11-2",
+  "id": 531201,
+  "aliases": [
+   "11-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   11
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-17T14:42:43.432Z",
+  "mainClassTeacherId": 818256,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "10-G1",
+  "id": 531191,
+  "aliases": [
+   "10-G1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-25T08:33:24.280Z",
+  "mainClassTeacherId": 818270,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "KM",
+  "id": 534632,
+  "aliases": [
+   "KM"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": null,
+  "createdAt": "2026-08-14T14:26:45.196Z",
+  "updatedAt": "2026-08-26T15:13:43.699Z",
+  "mainClassTeacherId": null,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "9-3",
+  "id": 531167,
+  "aliases": [
+   "9-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.495Z",
+  "mainClassTeacherId": 818257,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "HA",
+  "id": 534631,
+  "aliases": [
+   "HA"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": null,
+  "createdAt": "2026-08-14T14:26:45.196Z",
+  "updatedAt": "2026-08-26T15:13:43.686Z",
+  "mainClassTeacherId": null,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "GT",
+  "id": 534630,
+  "aliases": [
+   "GT"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   14
+  ],
+  "createdAt": "2026-08-14T14:26:45.196Z",
+  "updatedAt": "2026-08-28T02:11:23.692Z",
+  "mainClassTeacherId": 818276,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "5-2",
+  "id": 531196,
+  "aliases": [
+   "5-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.187Z",
+  "mainClassTeacherId": 818314,
+  "termId": 33567,
+  "roomId": 322036
+ },
+ {
+  "name": "5-3",
+  "id": 531197,
+  "aliases": [
+   "5-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.204Z",
+  "mainClassTeacherId": 818245,
+  "termId": 33567,
+  "roomId": 322033
+ },
+ {
+  "name": "5-5",
+  "id": 531199,
+  "aliases": [
+   "5-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   5
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.236Z",
+  "mainClassTeacherId": 818294,
+  "termId": 33567,
+  "roomId": 322035
+ },
+ {
+  "name": "6-4",
+  "id": 531189,
+  "aliases": [
+   "6-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.298Z",
+  "mainClassTeacherId": 818302,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "6-5",
+  "id": 531190,
+  "aliases": [
+   "6-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   6
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.312Z",
+  "mainClassTeacherId": 818301,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "7-1",
+  "id": 531175,
+  "aliases": [
+   "7-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.326Z",
+  "mainClassTeacherId": 818231,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "7-2",
+  "id": 531176,
+  "aliases": [
+   "7-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.341Z",
+  "mainClassTeacherId": 818235,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "12-1",
+  "id": 531192,
+  "aliases": [
+   "12-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.162Z",
+  "mainClassTeacherId": 818316,
+  "termId": 33567,
+  "roomId": 322038
+ },
+ {
+  "name": "12-2",
+  "id": 531193,
+  "aliases": [
+   "12-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.182Z",
+  "mainClassTeacherId": 818237,
+  "termId": 33567,
+  "roomId": 322060
+ },
+ {
+  "name": "12-3",
+  "id": 531182,
+  "aliases": [
+   "12-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.201Z",
+  "mainClassTeacherId": 818236,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "7-3",
+  "id": 531177,
+  "aliases": [
+   "7-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.355Z",
+  "mainClassTeacherId": 818295,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "7-4",
+  "id": 531178,
+  "aliases": [
+   "7-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.374Z",
+  "mainClassTeacherId": 818313,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "7-5",
+  "id": 531179,
+  "aliases": [
+   "7-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   7
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.387Z",
+  "mainClassTeacherId": 818320,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "8-1",
+  "id": 531170,
+  "aliases": [
+   "8-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.401Z",
+  "mainClassTeacherId": 818233,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "8-2",
+  "id": 531171,
+  "aliases": [
+   "8-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.415Z",
+  "mainClassTeacherId": 818267,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "8-4",
+  "id": 531173,
+  "aliases": [
+   "8-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.444Z",
+  "mainClassTeacherId": 818250,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "9-1",
+  "id": 531165,
+  "aliases": [
+   "9-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.470Z",
+  "mainClassTeacherId": 818312,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "10-1",
+  "id": 531161,
+  "aliases": [
+   "10-1"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.543Z",
+  "mainClassTeacherId": 818266,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "10-2",
+  "id": 531162,
+  "aliases": [
+   "10-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.556Z",
+  "mainClassTeacherId": 818281,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "10-3",
+  "id": 531164,
+  "aliases": [
+   "10-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.568Z",
+  "mainClassTeacherId": 818322,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "N",
+  "id": 534633,
+  "aliases": [
+   "N"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": null,
+  "createdAt": "2026-08-14T14:26:45.196Z",
+  "updatedAt": "2026-08-26T15:13:43.712Z",
+  "mainClassTeacherId": null,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "TR",
+  "id": 534634,
+  "aliases": [
+   "TR"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": null,
+  "createdAt": "2026-08-14T14:26:45.196Z",
+  "updatedAt": "2026-08-26T15:13:43.724Z",
+  "mainClassTeacherId": null,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "8-5",
+  "id": 531174,
+  "aliases": [
+   "8-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.456Z",
+  "mainClassTeacherId": 818317,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "9-2",
+  "id": 531166,
+  "aliases": [
+   "9-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.484Z",
+  "mainClassTeacherId": 818307,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "9-4",
+  "id": 531168,
+  "aliases": [
+   "9-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.507Z",
+  "mainClassTeacherId": 872006,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "9-5",
+  "id": 531169,
+  "aliases": [
+   "9-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   9
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-15T07:43:44.139Z",
+  "mainClassTeacherId": 818263,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "10-4",
+  "id": 531163,
+  "aliases": [
+   "10-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   10
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-08-26T15:13:43.583Z",
+  "mainClassTeacherId": 818275,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "8-3",
+  "id": 531172,
+  "aliases": [
+   "8-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   8
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-11T06:08:14.687Z",
+  "mainClassTeacherId": 818249,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "AG",
+  "id": 534629,
+  "aliases": [
+   "AG"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13
+  ],
+  "createdAt": "2026-08-14T14:26:45.196Z",
+  "updatedAt": "2026-09-13T15:29:45.513Z",
+  "mainClassTeacherId": null,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "12-5",
+  "id": 531203,
+  "aliases": [
+   "12-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.236Z",
+  "mainClassTeacherId": 818228,
+  "termId": 33567,
+  "roomId": 322059
+ },
+ {
+  "name": "13-5",
+  "id": 531184,
+  "aliases": [
+   "13-5"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-11-15T09:45:29.114Z",
+  "mainClassTeacherId": 818239,
+  "termId": 33567,
+  "roomId": 322023
+ },
+ {
+  "name": "13-2",
+  "id": 531181,
+  "aliases": [
+   "13-2"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.282Z",
+  "mainClassTeacherId": 818311,
+  "termId": 33567,
+  "roomId": 322062
+ },
+ {
+  "name": "12-4",
+  "id": 531202,
+  "aliases": [
+   "12-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.218Z",
+  "mainClassTeacherId": 872003,
+  "termId": 33567,
+  "roomId": null
+ },
+ {
+  "name": "12-6",
+  "id": 531204,
+  "aliases": [
+   "12-6"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   12
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.250Z",
+  "mainClassTeacherId": 818286,
+  "termId": 33567,
+  "roomId": 322019
+ },
+ {
+  "name": "13-4",
+  "id": 531183,
+  "aliases": [
+   "13-4"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.312Z",
+  "mainClassTeacherId": 818260,
+  "termId": 33567,
+  "roomId": 322039
+ },
+ {
+  "name": "13-3",
+  "id": 531194,
+  "aliases": [
+   "13-3"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.297Z",
+  "mainClassTeacherId": 818238,
+  "termId": 33567,
+  "roomId": 322022
+ },
+ {
+  "name": "13-6",
+  "id": 531185,
+  "aliases": [
+   "13-6"
+  ],
+  "isCourseSystem": false,
+  "gradeLevels": [
+   13
+  ],
+  "createdAt": "2026-08-11T13:12:39.985Z",
+  "updatedAt": "2026-09-18T11:53:06.348Z",
+  "mainClassTeacherId": 818271,
+  "termId": 33567,
+  "roomId": 322025
+ }
+]

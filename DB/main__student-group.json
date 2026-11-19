@@ -1,0 +1,72 @@
+[
+ {
+  "abbreviation": "8-2",
+  "name": "8-2",
+  "untisKey": null,
+  "indiwareKey": null,
+  "spoKey": null,
+  "id": 4239709,
+  "isEntireClass": true,
+  "asvKeys": null,
+  "untisKeys": null,
+  "nameQuality": null,
+  "createdAt": "2026-08-11T13:12:40.623Z",
+  "updatedAt": "2026-08-11T13:12:40.623Z"
+ },
+ {
+  "abbreviation": "Mat-E",
+  "name": "Mat-E",
+  "untisKey": null,
+  "indiwareKey": "Mat-E",
+  "spoKey": null,
+  "id": 4266581,
+  "isEntireClass": false,
+  "asvKeys": null,
+  "untisKeys": null,
+  "nameQuality": 2,
+  "createdAt": "2026-08-14T14:27:07.794Z",
+  "updatedAt": "2026-08-26T15:14:17.321Z"
+ },
+ {
+  "abbreviation": "8-2,​8-4 Frz",
+  "name": "8-2,​8-4 Frz",
+  "untisKey": null,
+  "indiwareKey": null,
+  "spoKey": null,
+  "id": 4266568,
+  "isEntireClass": false,
+  "asvKeys": null,
+  "untisKeys": null,
+  "nameQuality": 1,
+  "createdAt": "2026-08-14T14:27:07.251Z",
+  "updatedAt": "2026-11-12T14:21:27.846Z"
+ },
+ {
+  "abbreviation": "Mat-E82",
+  "name": "Mat-E82",
+  "untisKey": null,
+  "indiwareKey": "Mat-E82",
+  "spoKey": null,
+  "id": 4328874,
+  "isEntireClass": false,
+  "asvKeys": null,
+  "untisKeys": null,
+  "nameQuality": 2,
+  "createdAt": "2026-08-27T11:34:00.419Z",
+  "updatedAt": "2026-11-12T14:21:27.923Z"
+ },
+ {
+  "abbreviation": "ENG-E",
+  "name": "ENG-E",
+  "untisKey": null,
+  "indiwareKey": "ENG-E",
+  "spoKey": null,
+  "id": 4266571,
+  "isEntireClass": false,
+  "asvKeys": null,
+  "untisKeys": null,
+  "nameQuality": 2,
+  "createdAt": "2026-08-14T14:27:07.539Z",
+  "updatedAt": "2026-11-12T14:21:28.689Z"
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "name": "008",
+  "description": "Hauswirtschaft",
+  "id": 322016,
+  "createdAt": "2025-12-18T08:33:59.831Z",
+  "updatedAt": "2025-12-18T08:33:59.831Z",
+  "buildingId": null
+ },
+ {
+  "name": "010",
+  "description": "Hauswirtschaftsküche",
+  "id": 322017,
+  "createdAt": "2025-12-18T08:33:59.835Z",
+  "updatedAt": "2025-12-18T08:33:59.835Z",
+  "buildingId": null
+ },
+ {
+  "name": "121",
+  "description": "Technik",
+  "id": 322026,
+  "createdAt": "2025-12-18T08:33:59.876Z",
+  "updatedAt": "2025-12-18T08:33:59.876Z",
+  "buildingId": null
+ },
+ {
+  "name": "122",
+  "description": null,
+  "id": 322027,
+  "createdAt": "2025-12-18T08:33:59.879Z",
+  "updatedAt": "2025-12-18T08:33:59.879Z",
+  "buildingId": null
+ },
+ {
+  "name": "123",
+  "description": null,
+  "id": 322028,
+  "createdAt": "2025-12-18T08:33:59.885Z",
+  "updatedAt": "2025-12-18T08:33:59.885Z",
+  "buildingId": null
+ },
+ {
+  "name": "124",
+  "description": null,
+  "id": 322029,
+  "createdAt": "2025-12-18T08:33:59.889Z",
+  "updatedAt": "2025-12-18T08:33:59.889Z",
+  "buildingId": null
+ },
+ {
+  "name": "130",
+  "description": null,
+  "id": 322032,
+  "createdAt": "2025-12-18T08:33:59.907Z",
+  "updatedAt": "2025-12-18T08:33:59.907Z",
+  "buildingId": null
+ },
+ {
+  "name": "217",
+  "description": "Informatik/PC",
+  "id": 322044,
+  "createdAt": "2025-12-18T08:33:59.969Z",
+  "updatedAt": "2025-12-18T08:33:59.969Z",
+  "buildingId": null
+ },
+ {
+  "name": "219",
+  "description": null,
+  "id": 322046,
+  "createdAt": "2025-12-18T08:33:59.981Z",
+  "updatedAt": "2025-12-18T08:33:59.981Z",
+  "buildingId": null
+ },
+ {
+  "name": "103",
+  "description": "Hörsaal Physik",
+  "id": 322018,
+  "createdAt": "2025-12-18T08:33:59.841Z",
+  "updatedAt": "2025-12-18T08:33:59.841Z",
+  "buildingId": null
+ },
+ {
+  "name": "105",
+  "description": "Physik",
+  "id": 322019,
+  "createdAt": "2025-12-18T08:33:59.844Z",
+  "updatedAt": "2025-12-18T08:33:59.844Z",
+  "buildingId": null
+ },
+ {
+  "name": "106",
+  "description": "Physik",
+  "id": 322020,
+  "createdAt": "2025-12-18T08:33:59.847Z",
+  "updatedAt": "2025-12-18T08:33:59.847Z",
+  "buildingId": null
+ },
+ {
+  "name": "111",
+  "description": null,
+  "id": 322024,
+  "createdAt": "2025-12-18T08:33:59.866Z",
+  "updatedAt": "2025-12-18T08:33:59.866Z",
+  "buildingId": null
+ },
+ {
+  "name": "204",
+  "description": "Biologie",
+  "id": 322037,
+  "createdAt": "2025-12-18T08:33:59.936Z",
+  "updatedAt": "2025-12-18T08:33:59.936Z",
+  "buildingId": null
+ },
+ {
+  "name": "206",
+  "description": "Biologie",
+  "id": 322038,
+  "createdAt": "2025-12-18T08:33:59.940Z",
+  "updatedAt": "2025-12-18T08:33:59.940Z",
+  "buildingId": null
+ },
+ {
+  "name": "226",
+  "description": null,
+  "id": 322051,
+  "createdAt": "2025-12-18T08:34:00.002Z",
+  "updatedAt": "2025-12-18T08:34:00.002Z",
+  "buildingId": null
+ },
+ {
+  "name": "230",
+  "description": null,
+  "id": 322052,
+  "createdAt": "2025-12-18T08:34:00.006Z",
+  "updatedAt": "2025-12-18T08:34:00.006Z",
+  "buildingId": null
+ },
+ {
+  "name": "231",
+  "description": null,
+  "id": 322053,
+  "createdAt": "2025-12-18T08:34:00.010Z",
+  "updatedAt": "2025-12-18T08:34:00.010Z",
+  "buildingId": null
+ },
+ {
+  "name": "308",
+  "description": "Kunst",
+  "id": 322062,
+  "createdAt": "2025-12-18T08:34:00.040Z",
+  "updatedAt": "2025-12-18T08:34:00.040Z",
+  "buildingId": null
+ },
+ {
+  "name": "321",
+  "description": null,
+  "id": 322069,
+  "createdAt": "2025-12-18T08:34:00.075Z",
+  "updatedAt": "2025-12-18T08:34:00.075Z",
+  "buildingId": null
+ },
+ {
+  "name": "322",
+  "description": null,
+  "id": 322070,
+  "createdAt": "2025-12-18T08:34:00.084Z",
+  "updatedAt": "2025-12-18T08:34:00.084Z",
+  "buildingId": null
+ },
+ {
+  "name": "108",
+  "description": null,
+  "id": 322021,
+  "createdAt": "2025-12-18T08:33:59.850Z",
+  "updatedAt": "2025-12-18T08:33:59.850Z",
+  "buildingId": null
+ },
+ {
+  "name": "126",
+  "description": null,
+  "id": 322031,
+  "createdAt": "2025-12-18T08:33:59.899Z",
+  "updatedAt": "2025-12-18T08:33:59.899Z",
+  "buildingId": null
+ },
+ {
+  "name": "133",
+  "description": null,
+  "id": 322033,
+  "createdAt": "2025-12-18T08:33:59.916Z",
+  "updatedAt": "2025-12-18T08:33:59.916Z",
+  "buildingId": null
+ },
+ {
+  "name": "134",
+  "description": null,
+  "id": 322034,
+  "createdAt": "2025-12-18T08:33:59.923Z",
+  "updatedAt": "2025-12-18T08:33:59.923Z",
+  "buildingId": null
+ },
+ {
+  "name": "210",
+  "description": null,
+  "id": 322041,
+  "createdAt": "2025-12-18T08:33:59.956Z",
+  "updatedAt": "2025-12-18T08:33:59.956Z",
+  "buildingId": null
+ },
+ {
+  "name": "218",
+  "description": "Informatik/PC",
+  "id": 322045,
+  "createdAt": "2025-12-18T08:33:59.975Z",
+  "updatedAt": "2025-12-18T08:33:59.975Z",
+  "buildingId": null
+ },
+ {
+  "name": "232",
+  "description": null,
+  "id": 322054,
+  "createdAt": "2025-12-18T08:34:00.013Z",
+  "updatedAt": "2025-12-18T08:34:00.013Z",
+  "buildingId": null
+ },
+ {
+  "name": "303",
+  "description": null,
+  "id": 322059,
+  "createdAt": "2025-12-18T08:34:00.029Z",
+  "updatedAt": "2025-12-18T08:34:00.029Z",
+  "buildingId": null
+ },
+ {
+  "name": "306",
+  "description": "Chemie",
+  "id": 322060,
+  "createdAt": "2025-12-18T08:34:00.032Z",
+  "updatedAt": "2025-12-18T08:34:00.032Z",
+  "buildingId": null
+ },
+ {
+  "name": "AG-R",
+  "description": null,
+  "id": 322075,
+  "createdAt": "2025-12-18T08:34:00.105Z",
+  "updatedAt": "2025-12-18T08:34:00.105Z",
+  "buildingId": null
+ },
+ {
+  "name": "109",
+  "description": null,
+  "id": 322022,
+  "createdAt": "2025-12-18T08:33:59.855Z",
+  "updatedAt": "2025-12-18T08:33:59.855Z",
+  "buildingId": null
+ },
+ {
+  "name": "222",
+  "description": null,
+  "id": 322049,
+  "createdAt": "2025-12-18T08:33:59.994Z",
+  "updatedAt": "2025-12-18T08:33:59.994Z",
+  "buildingId": null
+ },
+ {
+  "name": "326",
+  "description": null,
+  "id": 322074,
+  "createdAt": "2025-12-18T08:34:00.102Z",
+  "updatedAt": "2025-12-18T08:34:00.102Z",
+  "buildingId": null
+ },
+ {
+  "name": "110",
+  "description": null,
+  "id": 322023,
+  "createdAt": "2025-12-18T08:33:59.860Z",
+  "updatedAt": "2025-12-18T08:33:59.860Z",
+  "buildingId": null
+ },
+ {
+  "name": "125",
+  "description": null,
+  "id": 322030,
+  "createdAt": "2025-12-18T08:33:59.895Z",
+  "updatedAt": "2025-12-18T08:33:59.895Z",
+  "buildingId": null
+ },
+ {
+  "name": "216",
+  "description": "Informatik/PC",
+  "id": 322043,
+  "createdAt": "2025-12-18T08:33:59.964Z",
+  "updatedAt": "2025-12-18T08:33:59.964Z",
+  "buildingId": null
+ },
+ {
+  "name": "112",
+  "description": null,
+  "id": 322025,
+  "createdAt": "2025-12-18T08:33:59.870Z",
+  "updatedAt": "2025-12-18T08:33:59.870Z",
+  "buildingId": null
+ },
+ {
+  "name": "135",
+  "description": null,
+  "id": 322035,
+  "createdAt": "2025-12-18T08:33:59.927Z",
+  "updatedAt": "2025-12-18T08:33:59.927Z",
+  "buildingId": null
+ },
+ {
+  "name": "137",
+  "description": null,
+  "id": 322036,
+  "createdAt": "2025-12-18T08:33:59.930Z",
+  "updatedAt": "2025-12-18T08:33:59.930Z",
+  "buildingId": null
+ },
+ {
+  "name": "208",
+  "description": null,
+  "id": 322039,
+  "createdAt": "2025-12-18T08:33:59.944Z",
+  "updatedAt": "2025-12-18T08:33:59.944Z",
+  "buildingId": null
+ },
+ {
+  "name": "209",
+  "description": null,
+  "id": 322040,
+  "createdAt": "2025-12-18T08:33:59.951Z",
+  "updatedAt": "2025-12-18T08:33:59.951Z",
+  "buildingId": null
+ },
+ {
+  "name": "211",
+  "description": null,
+  "id": 322042,
+  "createdAt": "2025-12-18T08:33:59.962Z",
+  "updatedAt": "2025-12-18T08:33:59.962Z",
+  "buildingId": null
+ },
+ {
+  "name": "220",
+  "description": null,
+  "id": 322047,
+  "createdAt": "2025-12-18T08:33:59.986Z",
+  "updatedAt": "2025-12-18T08:33:59.986Z",
+  "buildingId": null
+ },
+ {
+  "name": "221",
+  "description": null,
+  "id": 322048,
+  "createdAt": "2025-12-18T08:33:59.991Z",
+  "updatedAt": "2025-12-18T08:33:59.991Z",
+  "buildingId": null
+ },
+ {
+  "name": "223",
+  "description": null,
+  "id": 322050,
+  "createdAt": "2025-12-18T08:33:59.999Z",
+  "updatedAt": "2025-12-18T08:33:59.999Z",
+  "buildingId": null
+ },
+ {
+  "name": "GS1",
+  "description": "Grundschule 1",
+  "id": 322080,
+  "createdAt": "2025-12-18T08:34:00.135Z",
+  "updatedAt": "2025-12-18T08:34:00.135Z",
+  "buildingId": null
+ },
+ {
+  "name": "GTH1",
+  "description": null,
+  "id": 322083,
+  "createdAt": "2025-12-18T08:34:00.147Z",
+  "updatedAt": "2025-12-18T08:34:00.147Z",
+  "buildingId": null
+ },
+ {
+  "name": "KlTH1",
+  "description": null,
+  "id": 322087,
+  "createdAt": "2025-12-18T08:34:00.189Z",
+  "updatedAt": "2025-12-18T08:34:00.189Z",
+  "buildingId": null
+ },
+ {
+  "name": "233",
+  "description": null,
+  "id": 322055,
+  "createdAt": "2025-12-18T08:34:00.016Z",
+  "updatedAt": "2025-12-18T08:34:00.016Z",
+  "buildingId": null
+ },
+ {
+  "name": "234",
+  "description": "Kunst",
+  "id": 322056,
+  "createdAt": "2025-12-18T08:34:00.019Z",
+  "updatedAt": "2025-12-18T08:34:00.019Z",
+  "buildingId": null
+ },
+ {
+  "name": "235",
+  "description": null,
+  "id": 322057,
+  "createdAt": "2025-12-18T08:34:00.022Z",
+  "updatedAt": "2025-12-18T08:34:00.022Z",
+  "buildingId": null
+ },
+ {
+  "name": "302",
+  "description": "Chemie",
+  "id": 322058,
+  "createdAt": "2025-12-18T08:34:00.026Z",
+  "updatedAt": "2025-12-18T08:34:00.026Z",
+  "buildingId": null
+ },
+ {
+  "name": "307",
+  "description": null,
+  "id": 322061,
+  "createdAt": "2025-12-18T08:34:00.036Z",
+  "updatedAt": "2025-12-18T08:34:00.036Z",
+  "buildingId": null
+ },
+ {
+  "name": "309",
+  "description": "Musik",
+  "id": 322063,
+  "createdAt": "2025-12-18T08:34:00.043Z",
+  "updatedAt": "2025-12-18T08:34:00.043Z",
+  "buildingId": null
+ },
+ {
+  "name": "310",
+  "description": "Musik",
+  "id": 322064,
+  "createdAt": "2025-12-18T08:34:00.047Z",
+  "updatedAt": "2025-12-18T08:34:00.047Z",
+  "buildingId": null
+ },
+ {
+  "name": "312",
+  "description": null,
+  "id": 322065,
+  "createdAt": "2025-12-18T08:34:00.050Z",
+  "updatedAt": "2025-12-18T08:34:00.050Z",
+  "buildingId": null
+ },
+ {
+  "name": "313",
+  "description": null,
+  "id": 322066,
+  "createdAt": "2025-12-18T08:34:00.058Z",
+  "updatedAt": "2025-12-18T08:34:00.058Z",
+  "buildingId": null
+ },
+ {
+  "name": "314",
+  "description": null,
+  "id": 322067,
+  "createdAt": "2025-12-18T08:34:00.063Z",
+  "updatedAt": "2025-12-18T08:34:00.063Z",
+  "buildingId": null
+ },
+ {
+  "name": "315",
+  "description": null,
+  "id": 322068,
+  "createdAt": "2025-12-18T08:34:00.070Z",
+  "updatedAt": "2025-12-18T08:34:00.070Z",
+  "buildingId": null
+ },
+ {
+  "name": "323",
+  "description": null,
+  "id": 322071,
+  "createdAt": "2025-12-18T08:34:00.092Z",
+  "updatedAt": "2025-12-18T08:34:00.092Z",
+  "buildingId": null
+ },
+ {
+  "name": "Aula",
+  "description": null,
+  "id": 322076,
+  "createdAt": "2025-12-18T08:34:00.110Z",
+  "updatedAt": "2025-12-18T08:34:00.110Z",
+  "buildingId": null
+ },
+ {
+  "name": "324",
+  "description": null,
+  "id": 322072,
+  "createdAt": "2025-12-18T08:34:00.096Z",
+  "updatedAt": "2025-12-18T08:34:00.096Z",
+  "buildingId": null
+ },
+ {
+  "name": "325",
+  "description": null,
+  "id": 322073,
+  "createdAt": "2025-12-18T08:34:00.099Z",
+  "updatedAt": "2025-12-18T08:34:00.099Z",
+  "buildingId": null
+ },
+ {
+  "name": "GTH",
+  "description": "Große Turnhalle 1",
+  "id": 322082,
+  "createdAt": "2025-12-18T08:34:00.144Z",
+  "updatedAt": "2025-12-18T08:34:00.144Z",
+  "buildingId": null
+ },
+ {
+  "name": "KlTH",
+  "description": null,
+  "id": 322086,
+  "createdAt": "2025-12-18T08:34:00.182Z",
+  "updatedAt": "2025-12-18T08:34:00.182Z",
+  "buildingId": null
+ },
+ {
+  "name": "Bib",
+  "description": "Bibliothek",
+  "id": 322077,
+  "createdAt": "2025-12-18T08:34:00.118Z",
+  "updatedAt": "2025-12-18T08:34:00.118Z",
+  "buildingId": null
+ },
+ {
+  "name": "Bib 2",
+  "description": "Leseraum",
+  "id": 322078,
+  "createdAt": "2025-12-18T08:34:00.123Z",
+  "updatedAt": "2025-12-18T08:34:00.123Z",
+  "buildingId": null
+ },
+ {
+  "name": "GS",
+  "description": "Turnhalle Grundschule",
+  "id": 322079,
+  "createdAt": "2025-12-18T08:34:00.132Z",
+  "updatedAt": "2025-12-18T08:34:00.132Z",
+  "buildingId": null
+ },
+ {
+  "name": "Mensa",
+  "description": null,
+  "id": 322089,
+  "createdAt": "2025-12-18T08:34:00.205Z",
+  "updatedAt": "2025-12-18T08:34:00.205Z",
+  "buildingId": null
+ },
+ {
+  "name": "GS2",
+  "description": "Grundschule 2",
+  "id": 322081,
+  "createdAt": "2025-12-18T08:34:00.140Z",
+  "updatedAt": "2025-12-18T08:34:00.140Z",
+  "buildingId": null
+ },
+ {
+  "name": "GTH2",
+  "description": null,
+  "id": 322084,
+  "createdAt": "2025-12-18T08:34:00.151Z",
+  "updatedAt": "2025-12-18T08:34:00.151Z",
+  "buildingId": null
+ },
+ {
+  "name": "K02",
+  "description": "Werken",
+  "id": 322085,
+  "createdAt": "2025-12-18T08:34:00.160Z",
+  "updatedAt": "2025-12-18T08:34:00.160Z",
+  "buildingId": null
+ },
+ {
+  "name": "KlTH2",
+  "description": null,
+  "id": 322088,
+  "createdAt": "2025-12-18T08:34:00.198Z",
+  "updatedAt": "2025-12-18T08:34:00.198Z",
+  "buildingId": null
+ },
+ {
+  "name": "SH",
+  "description": "Schwimmhalle",
+  "id": 322090,
+  "createdAt": "2025-12-18T08:34:00.210Z",
+  "updatedAt": "2025-12-18T08:34:00.210Z",
+  "buildingId": null
+ },
+ {
+  "name": "SPP1",
+  "description": "Sportpark",
+  "id": 322091,
+  "createdAt": "2025-12-18T08:34:00.217Z",
+  "updatedAt": "2025-12-18T08:34:00.217Z",
+  "buildingId": null
+ },
+ {
+  "name": "SPP2",
+  "description": "Sportpark",
+  "id": 322092,
+  "createdAt": "2025-12-18T08:34:00.223Z",
+  "updatedAt": "2025-12-18T08:34:00.223Z",
+  "buildingId": null
+ },
+ {
+  "name": "Sppl",
+  "description": "Sportplatz",
+  "id": 322093,
+  "createdAt": "2025-12-18T08:34:00.232Z",
+  "updatedAt": "2025-12-18T08:34:00.232Z",
+  "buildingId": null
+ },
+ {
+  "name": "Töpf",
+  "description": "Töpferwerkstatt",
+  "id": 322094,
+  "createdAt": "2025-12-18T08:34:00.236Z",
+  "updatedAt": "2025-12-18T08:34:00.236Z",
+  "buildingId": null
+ },
+ {
+  "name": "TR",
+  "description": "Trainingsraum",
+  "id": 322095,
+  "createdAt": "2025-12-18T08:34:00.239Z",
+  "updatedAt": "2025-12-18T08:34:00.239Z",
+  "buildingId": null
+ },
+ {
+  "name": "SPl",
+  "description": "Sportplatz",
+  "id": 343267,
+  "createdAt": "2026-08-14T14:26:45.204Z",
+  "updatedAt": "2026-08-14T14:26:45.204Z",
+  "buildingId": null
+ },
+ {
+  "name": "125.1",
+  "description": "Schulsozialarbeit",
+  "id": 354678,
+  "createdAt": "2026-09-23T07:00:45.574Z",
+  "updatedAt": "2026-09-23T07:00:45.574Z",
+  "buildingId": null
+ },
+ {
+  "name": "117",
+  "description": "Büro Schulleiter",
+  "id": 355856,
+  "createdAt": "2026-10-01T07:26:42.681Z",
+  "updatedAt": "2026-10-01T07:26:42.681Z",
+  "buildingId": null
+ },
+ {
+  "name": "120",
+  "description": "Lehrerzimmer 1",
+  "id": 355857,
+  "createdAt": "2026-10-01T07:27:35.442Z",
+  "updatedAt": "2026-10-01T07:27:35.442Z",
+  "buildingId": null
+ },
+ {
+  "name": "227",
+  "description": "Lehrerzimmer 2",
+  "id": 355858,
+  "createdAt": "2026-10-01T07:28:03.150Z",
+  "updatedAt": "2026-10-01T07:28:03.150Z",
+  "buildingId": null
+ },
+ {
+  "name": "311",
+  "description": "Lehrerzimmer 3",
+  "id": 355859,
+  "createdAt": "2026-10-01T07:28:11.599Z",
+  "updatedAt": "2026-10-01T07:28:11.599Z",
+  "buildingId": null
+ },
+ {
+  "name": "132",
+  "description": "Lehrerzimmer 4",
+  "id": 355860,
+  "createdAt": "2026-10-01T07:28:21.008Z",
+  "updatedAt": "2026-10-01T07:28:21.008Z",
+  "buildingId": null
+ },
+ {
+  "name": "119",
+  "description": "Büro Koordinatorin Sek II",
+  "id": 355861,
+  "createdAt": "2026-10-01T07:40:59.113Z",
+  "updatedAt": "2026-10-01T07:40:59.113Z",
+  "buildingId": null
+ },
+ {
+  "name": "115",
+  "description": "",
+  "id": 355862,
+  "createdAt": "2026-10-01T07:44:44.859Z",
+  "updatedAt": "2026-10-01T09:19:46.694Z",
+  "buildingId": null
+ },
+ {
+  "name": "116",
+  "description": null,
+  "id": 355866,
+  "createdAt": "2026-10-01T09:19:53.363Z",
+  "updatedAt": "2026-10-01T09:19:53.363Z",
+  "buildingId": null
+ }
+]

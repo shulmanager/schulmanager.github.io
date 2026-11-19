@@ -1,0 +1,62 @@
+[
+ {
+  "abbreviation": null,
+  "name": "Zeit1",
+  "foreignKey": "Zeit1",
+  "id": 10315,
+  "from": null,
+  "until": null,
+  "fromByDay": null,
+  "untilByDay": null,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2026-11-12T14:21:13.208Z",
+  "precedingClassHourId": null,
+  "simultaneousClassHourId": null,
+  "succeedingClassHourId": 68692
+ },
+ {
+  "abbreviation": null,
+  "name": "Zeit2",
+  "foreignKey": "Zeit2",
+  "id": 10316,
+  "from": null,
+  "until": null,
+  "fromByDay": null,
+  "untilByDay": null,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2026-11-12T14:21:13.218Z",
+  "precedingClassHourId": null,
+  "simultaneousClassHourId": null,
+  "succeedingClassHourId": 68694
+ },
+ {
+  "abbreviation": null,
+  "name": "Zeit3",
+  "foreignKey": "Zeit3",
+  "id": 10317,
+  "from": null,
+  "until": null,
+  "fromByDay": null,
+  "untilByDay": null,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2026-11-12T14:21:13.227Z",
+  "precedingClassHourId": null,
+  "simultaneousClassHourId": null,
+  "succeedingClassHourId": 68696
+ },
+ {
+  "abbreviation": null,
+  "name": "Zeit4",
+  "foreignKey": "Zeit4",
+  "id": 10318,
+  "from": null,
+  "until": null,
+  "fromByDay": null,
+  "untilByDay": null,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2026-11-12T14:21:13.234Z",
+  "precedingClassHourId": null,
+  "simultaneousClassHourId": null,
+  "succeedingClassHourId": 68698
+ }
+]

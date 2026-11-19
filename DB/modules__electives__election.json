@@ -1,0 +1,21 @@
+[
+ {
+  "name": "Arbeitsgemeinschaften ab Klasse 7",
+  "description": "Liebe Schülerinnen und Schüler,\n\nam 9. September starten wir in diesem Schuljahr mit unseren Arbeitsgemeinschaften. Für euch haben wir ein vielfältiges und spannendes Angebot zusammengestellt.\n\nAlle AGs finden mittwochs statt. Daher könnt ihr nur einen AG-Wunsch angeben.\n\nWenn ihr Interesse habt und gerne an einer AG teilnehmen möchtet, meldet euch an! Wir freuen uns auf eure Teilnahme.",
+  "id": 23603,
+  "start": "2026-08-28T11:00:00.000Z",
+  "end": "2026-09-03T21:59:00.000Z",
+  "prioritiesPerStudent": 1,
+  "finalized": true,
+  "published": true,
+  "useSubElections": false,
+  "useSlots": null,
+  "useInstancesWithMultipleSlots": null,
+  "useMultipleElectiveInstances": false,
+  "electiveDataIsVisibleForStudents": true,
+  "electiveInstructorIsVisibleForStudents": false,
+  "requireConfirmation": false,
+  "createdAt": "2026-08-28T10:35:34.582Z",
+  "updatedAt": "2026-09-06T09:23:04.456Z"
+ }
+]

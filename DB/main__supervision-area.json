@@ -1,0 +1,98 @@
+[
+ {
+  "name": "Haupteing.",
+  "description": null,
+  "foreignKey": null,
+  "id": 26321,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "Cafeteria",
+  "description": null,
+  "foreignKey": null,
+  "id": 26322,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "Mensa 1",
+  "description": null,
+  "foreignKey": null,
+  "id": 26323,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "Mensa 2",
+  "description": null,
+  "foreignKey": null,
+  "id": 26324,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "NB Geb.",
+  "description": null,
+  "foreignKey": null,
+  "id": 26325,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "NB Toil.",
+  "description": null,
+  "foreignKey": null,
+  "id": 26326,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "NB Hof",
+  "description": null,
+  "foreignKey": null,
+  "id": 26327,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "NB Tor",
+  "description": null,
+  "foreignKey": null,
+  "id": 26328,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "NB kl. SP",
+  "description": null,
+  "foreignKey": null,
+  "id": 26329,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "AB Hof 1",
+  "description": null,
+  "foreignKey": null,
+  "id": 26330,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "AB SP",
+  "description": null,
+  "foreignKey": null,
+  "id": 26331,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ },
+ {
+  "name": "AB Tor",
+  "description": null,
+  "foreignKey": null,
+  "id": 26332,
+  "createdAt": "2025-12-18T09:11:50.435Z",
+  "updatedAt": "2025-12-18T09:11:50.435Z"
+ }
+]

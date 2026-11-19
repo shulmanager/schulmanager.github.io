@@ -1,0 +1,41 @@
+[
+ {
+  "firstname": "------------",
+  "lastname": "------------",
+  "salutation": null,
+  "recipientName": null,
+  "id": 7694873,
+  "sex": null,
+  "type": null,
+  "isMainParent": null,
+  "isEntitledToInformation": null,
+  "createdAt": "2026-08-11T13:13:33.964Z",
+  "updatedAt": "2026-10-07T07:18:42.965Z"
+ },
+ {
+  "firstname": "Oleksii",
+  "lastname": "Holovashov",
+  "salutation": null,
+  "recipientName": null,
+  "id": 7694871,
+  "sex": "Male",
+  "type": null,
+  "isMainParent": null,
+  "isEntitledToInformation": null,
+  "createdAt": "2026-08-11T13:13:33.964Z",
+  "updatedAt": "2026-10-07T07:18:42.926Z"
+ },
+ {
+  "firstname": "Iryna",
+  "lastname": "Holovashova",
+  "salutation": null,
+  "recipientName": null,
+  "id": 7694872,
+  "sex": "Female",
+  "type": null,
+  "isMainParent": null,
+  "isEntitledToInformation": null,
+  "createdAt": "2026-08-11T13:13:33.964Z",
+  "updatedAt": "2026-10-07T07:18:42.948Z"
+ }
+]

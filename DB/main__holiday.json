@@ -1,0 +1,353 @@
+[
+ {
+  "name": "Karfreitag",
+  "start": "2026-04-03",
+  "end": "2026-04-03",
+  "id": 399845,
+  "createdAt": "2025-12-04T17:47:27.248Z",
+  "updatedAt": "2025-12-04T17:47:27.248Z",
+  "termId": 31058
+ },
+ {
+  "name": "Ostermontag",
+  "start": "2026-04-06",
+  "end": "2026-04-06",
+  "id": 399846,
+  "createdAt": "2025-12-04T17:47:27.253Z",
+  "updatedAt": "2025-12-04T17:47:27.253Z",
+  "termId": 31058
+ },
+ {
+  "name": "Tag der Arbeit / 1. Mai",
+  "start": "2026-05-01",
+  "end": "2026-05-01",
+  "id": 399847,
+  "createdAt": "2025-12-04T17:47:27.257Z",
+  "updatedAt": "2025-12-04T17:47:27.257Z",
+  "termId": 31058
+ },
+ {
+  "name": "Christi Himmelfahrt",
+  "start": "2026-05-14",
+  "end": "2026-05-14",
+  "id": 399848,
+  "createdAt": "2025-12-04T17:47:27.262Z",
+  "updatedAt": "2025-12-04T17:47:27.262Z",
+  "termId": 31058
+ },
+ {
+  "name": "Pfingstmontag",
+  "start": "2026-05-25",
+  "end": "2026-05-25",
+  "id": 399849,
+  "createdAt": "2025-12-04T17:47:27.266Z",
+  "updatedAt": "2025-12-04T17:47:27.266Z",
+  "termId": 31058
+ },
+ {
+  "name": "Sommerferien",
+  "start": "2025-06-28",
+  "end": "2025-08-08",
+  "id": 399832,
+  "createdAt": "2025-12-04T17:47:26.964Z",
+  "updatedAt": "2025-12-04T17:47:26.964Z",
+  "termId": 31058
+ },
+ {
+  "name": "Herbstferien",
+  "start": "2025-10-13",
+  "end": "2025-10-25",
+  "id": 399833,
+  "createdAt": "2025-12-04T17:47:26.974Z",
+  "updatedAt": "2025-12-04T17:47:26.974Z",
+  "termId": 31058
+ },
+ {
+  "name": "Weihnachtsferien",
+  "start": "2025-12-22",
+  "end": "2026-01-05",
+  "id": 399834,
+  "createdAt": "2025-12-04T17:47:26.980Z",
+  "updatedAt": "2025-12-04T17:47:26.980Z",
+  "termId": 31058
+ },
+ {
+  "name": "Winterferien",
+  "start": "2026-01-31",
+  "end": "2026-02-06",
+  "id": 399835,
+  "createdAt": "2025-12-04T17:47:26.988Z",
+  "updatedAt": "2025-12-04T17:47:26.988Z",
+  "termId": 31058
+ },
+ {
+  "name": "Osterferien",
+  "start": "2026-03-30",
+  "end": "2026-04-04",
+  "id": 399836,
+  "createdAt": "2025-12-04T17:47:26.994Z",
+  "updatedAt": "2025-12-04T17:47:26.994Z",
+  "termId": 31058
+ },
+ {
+  "name": "Pfingstferien",
+  "start": "2026-05-26",
+  "end": "2026-05-29",
+  "id": 399837,
+  "createdAt": "2025-12-04T17:47:26.999Z",
+  "updatedAt": "2025-12-04T17:47:26.999Z",
+  "termId": 31058
+ },
+ {
+  "name": "Sommerferien",
+  "start": "2026-07-04",
+  "end": "2026-08-14",
+  "id": 399838,
+  "createdAt": "2025-12-04T17:47:27.008Z",
+  "updatedAt": "2025-12-04T17:47:27.008Z",
+  "termId": 31058
+ },
+ {
+  "name": "Tag der Deutschen Einheit",
+  "start": "2025-10-03",
+  "end": "2025-10-03",
+  "id": 399839,
+  "createdAt": "2025-12-04T17:47:27.114Z",
+  "updatedAt": "2025-12-04T17:47:27.114Z",
+  "termId": 31058
+ },
+ {
+  "name": "Reformationstag",
+  "start": "2025-10-31",
+  "end": "2025-10-31",
+  "id": 399840,
+  "createdAt": "2025-12-04T17:47:27.210Z",
+  "updatedAt": "2025-12-04T17:47:27.210Z",
+  "termId": 31058
+ },
+ {
+  "name": "1. Weihnachtstag",
+  "start": "2025-12-25",
+  "end": "2025-12-25",
+  "id": 399841,
+  "createdAt": "2025-12-04T17:47:27.219Z",
+  "updatedAt": "2025-12-04T17:47:27.219Z",
+  "termId": 31058
+ },
+ {
+  "name": "2. Weihnachtstag",
+  "start": "2025-12-26",
+  "end": "2025-12-26",
+  "id": 399842,
+  "createdAt": "2025-12-04T17:47:27.228Z",
+  "updatedAt": "2025-12-04T17:47:27.228Z",
+  "termId": 31058
+ },
+ {
+  "name": "Neujahrstag",
+  "start": "2026-01-01",
+  "end": "2026-01-01",
+  "id": 399843,
+  "createdAt": "2025-12-04T17:47:27.236Z",
+  "updatedAt": "2025-12-04T17:47:27.236Z",
+  "termId": 31058
+ },
+ {
+  "name": "Heilige Drei Könige",
+  "start": "2026-01-06",
+  "end": "2026-01-06",
+  "id": 399844,
+  "createdAt": "2025-12-04T17:47:27.244Z",
+  "updatedAt": "2025-12-15T06:08:19.164Z",
+  "termId": 31058
+ },
+ {
+  "name": "Weihnachtsferien",
+  "start": "2026-12-21",
+  "end": "2027-01-02",
+  "id": 448027,
+  "createdAt": "2026-08-04T12:30:39.402Z",
+  "updatedAt": "2026-08-04T12:30:39.402Z",
+  "termId": 33567
+ },
+ {
+  "name": "Winterferien",
+  "start": "2027-02-01",
+  "end": "2027-02-06",
+  "id": 448028,
+  "createdAt": "2026-08-04T12:30:39.407Z",
+  "updatedAt": "2026-08-04T12:30:39.407Z",
+  "termId": 33567
+ },
+ {
+  "name": "Osterferien",
+  "start": "2027-03-22",
+  "end": "2027-03-27",
+  "id": 448029,
+  "createdAt": "2026-08-04T12:30:39.414Z",
+  "updatedAt": "2026-08-04T12:30:39.414Z",
+  "termId": 33567
+ },
+ {
+  "name": "Pfingstferien",
+  "start": "2027-05-15",
+  "end": "2027-05-22",
+  "id": 448030,
+  "createdAt": "2026-08-04T12:30:39.421Z",
+  "updatedAt": "2026-08-04T12:30:39.421Z",
+  "termId": 33567
+ },
+ {
+  "name": "Sommerferien",
+  "start": "2027-07-10",
+  "end": "2027-08-20",
+  "id": 448031,
+  "createdAt": "2026-08-04T12:30:39.427Z",
+  "updatedAt": "2026-08-04T12:30:39.427Z",
+  "termId": 33567
+ },
+ {
+  "name": "Tag der Deutschen Einheit",
+  "start": "2026-10-03",
+  "end": "2026-10-03",
+  "id": 448032,
+  "createdAt": "2026-08-04T12:30:39.435Z",
+  "updatedAt": "2026-08-04T12:30:39.435Z",
+  "termId": 33567
+ },
+ {
+  "name": "Reformationstag",
+  "start": "2026-10-31",
+  "end": "2026-10-31",
+  "id": 448033,
+  "createdAt": "2026-08-04T12:30:39.442Z",
+  "updatedAt": "2026-08-04T12:30:39.442Z",
+  "termId": 33567
+ },
+ {
+  "name": "1. Weihnachtstag",
+  "start": "2026-12-25",
+  "end": "2026-12-25",
+  "id": 448034,
+  "createdAt": "2026-08-04T12:30:39.449Z",
+  "updatedAt": "2026-08-04T12:30:39.449Z",
+  "termId": 33567
+ },
+ {
+  "name": "Heilige Drei Könige",
+  "start": "2027-01-06",
+  "end": "2027-01-06",
+  "id": 448037,
+  "createdAt": "2026-08-04T12:30:39.472Z",
+  "updatedAt": "2026-08-04T12:30:39.472Z",
+  "termId": 33567
+ },
+ {
+  "name": "Pfingstmontag",
+  "start": "2027-05-17",
+  "end": "2027-05-17",
+  "id": 448042,
+  "createdAt": "2026-08-04T12:30:39.509Z",
+  "updatedAt": "2026-08-04T12:30:39.509Z",
+  "termId": 33567
+ },
+ {
+  "name": "Sommerferien",
+  "start": "2026-07-04",
+  "end": "2026-08-14",
+  "id": 448025,
+  "createdAt": "2026-08-04T12:30:39.388Z",
+  "updatedAt": "2026-08-04T12:30:39.388Z",
+  "termId": 33567
+ },
+ {
+  "name": "Herbstferien",
+  "start": "2026-10-19",
+  "end": "2026-10-30",
+  "id": 448026,
+  "createdAt": "2026-08-04T12:30:39.396Z",
+  "updatedAt": "2026-08-04T12:30:39.396Z",
+  "termId": 33567
+ },
+ {
+  "name": "2. Weihnachtstag",
+  "start": "2026-12-26",
+  "end": "2026-12-26",
+  "id": 448035,
+  "createdAt": "2026-08-04T12:30:39.456Z",
+  "updatedAt": "2026-08-04T12:30:39.456Z",
+  "termId": 33567
+ },
+ {
+  "name": "Neujahrstag",
+  "start": "2027-01-01",
+  "end": "2027-01-01",
+  "id": 448036,
+  "createdAt": "2026-08-04T12:30:39.465Z",
+  "updatedAt": "2026-08-04T12:30:39.465Z",
+  "termId": 33567
+ },
+ {
+  "name": "Ostermontag",
+  "start": "2027-03-29",
+  "end": "2027-03-29",
+  "id": 448039,
+  "createdAt": "2026-08-04T12:30:39.488Z",
+  "updatedAt": "2026-08-04T12:30:39.488Z",
+  "termId": 33567
+ },
+ {
+  "name": "Tag der Arbeit / 1. Mai",
+  "start": "2027-05-01",
+  "end": "2027-05-01",
+  "id": 448040,
+  "createdAt": "2026-08-04T12:30:39.495Z",
+  "updatedAt": "2026-08-04T12:30:39.495Z",
+  "termId": 33567
+ },
+ {
+  "name": "Christi Himmelfahrt",
+  "start": "2027-05-06",
+  "end": "2027-05-06",
+  "id": 448041,
+  "createdAt": "2026-08-04T12:30:39.502Z",
+  "updatedAt": "2026-08-04T12:30:39.502Z",
+  "termId": 33567
+ },
+ {
+  "name": "Karfreitag",
+  "start": "2027-03-26",
+  "end": "2027-03-26",
+  "id": 448038,
+  "createdAt": "2026-08-04T12:30:39.480Z",
+  "updatedAt": "2026-08-04T12:30:39.480Z",
+  "termId": 33567
+ },
+ {
+  "name": "beweglicher Ferientag",
+  "start": "2026-10-05",
+  "end": "2026-10-05",
+  "id": 461963,
+  "createdAt": "2026-08-14T15:32:26.818Z",
+  "updatedAt": "2026-08-14T15:32:26.818Z",
+  "termId": 33567
+ },
+ {
+  "name": "Präventionstag",
+  "start": "2026-09-14",
+  "end": "2026-09-14",
+  "id": 461964,
+  "createdAt": "2026-08-14T15:33:11.741Z",
+  "updatedAt": "2026-08-14T15:33:11.741Z",
+  "termId": 33567
+ },
+ {
+  "name": "beweglicher Ferientag",
+  "start": "2027-05-07",
+  "end": "2027-05-07",
+  "id": 461965,
+  "createdAt": "2026-08-14T15:33:30.255Z",
+  "updatedAt": "2026-08-14T15:33:30.255Z",
+  "termId": 33567
+ }
+]

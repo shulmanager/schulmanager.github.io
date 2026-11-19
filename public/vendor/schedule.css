@@ -1,0 +1,225 @@
+﻿/* Originale Stundenplan-Styles der Schulmanager-Web-App (aus dem Live-Stylesheet uebernommen) */
+
+.timetable-with-substitutions .holiday {
+  text-overflow: ellipsis;
+  text-align: center;
+  background-color: lightgray;
+  cursor: default;
+  padding: 5px 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.timetable-with-substitutions .lesson-cell {
+  display: block;
+  width: 100%;
+  color: #000;
+  padding: 5px;
+  line-height: 1;
+}
+.timetable-with-substitutions .lesson-cell,
+.timetable-with-substitutions .lesson-cell * {
+  white-space: normal;
+  overflow: initial;
+}
+.timetable-with-substitutions .lesson-cell .substitution-comment {
+  float: right;
+  position: relative;
+  right: 40px;
+  top: -14px;
+  cursor: help;
+  margin-bottom: -10px;
+  color: #000 !important;
+  text-decoration: none !important;
+}
+.timetable-with-substitutions .lesson-cell .timetable-left {
+  float: left;
+  font-weight: 700;
+  cursor: help;
+}
+@media (min-width: 768px) {
+  .timetable-with-substitutions .lesson-cell .timetable-left {
+    margin-left: 1em;
+  }
+}
+.timetable-with-substitutions .lesson-cell .timetable-right {
+  float: right;
+  text-align: right;
+  cursor: help;
+}
+@media (min-width: 768px) {
+  .timetable-with-substitutions .lesson-cell .timetable-right {
+    margin-right: 1em;
+  }
+}
+.timetable-with-substitutions .lesson-cell .timetable-bottom-host {
+  display: block;
+  text-align: center;
+  width: 100%;
+  clear: both;
+}
+.timetable-with-substitutions .lesson-cell .timetable-bottom-host .timetable-bottom {
+  cursor: help;
+}
+.timetable-with-substitutions .lesson-cell.cancelled,
+.timetable-with-substitutions .lesson-cell.cancelled a,
+.timetable-with-substitutions .lesson-cell.cancelled span {
+  color: red;
+  text-decoration: line-through;
+}
+.timetable-with-substitutions .lesson-cell.is-new,
+.timetable-with-substitutions .lesson-cell.is-new a {
+  color: green;
+}
+.timetable-with-substitutions .lesson-cell.is-new .visual-diff-old {
+  display: none;
+}
+.timetable-with-substitutions td {
+  position: relative;
+}
+.timetable-with-substitutions td .supervision-container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  height: 0;
+  overflow: visible;
+}
+.timetable-with-substitutions td .supervision-container.supervision-above {
+  top: -10px;
+}
+.timetable-with-substitutions td .supervision-container.supervision-below {
+  bottom: 10px;
+}
+.timetable-with-substitutions td .supervision-container .supervision {
+  background: #fff;
+  box-shadow: 0 0 1px #000;
+  font-size: 0.8em;
+  padding: 1px;
+  line-height: 1;
+  display: inline-block;
+}
+.timetable-with-substitutions td .supervision-container .supervision.supervision-cancelled {
+  color: red;
+  text-decoration: line-through;
+}
+.timetable-with-substitutions td .supervision-container .supervision.supervision-new {
+  color: green;
+}
+
+.timetable-occurrences {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+@media (min-width: 768px) {
+  .timetable-occurrences {
+    position: absolute;
+    right: 15px;
+    margin-top: 0.5em;
+    max-width: 170px;
+  }
+}
+@media (min-width: 992px) {
+  .timetable-occurrences {
+    max-width: 270px;
+  }
+}
+@media (min-width: 1200px) {
+  .timetable-occurrences {
+    max-width: 370px;
+  }
+}
+@media (max-width: 767.98px) {
+  .timetable-occurrences {
+    text-align: center;
+    margin-top: 0.6em;
+  }
+}
+
+.class-hour-calendar {
+  display: block;
+}
+.class-hour-calendar .week-navigation {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 767.98px) {
+  .class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex {
+    justify-content: right;
+  }
+}
+.class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .btn-light {
+  height: 35px;
+}
+.class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .calendar-week {
+  display: flex;
+  align-items: center;
+  font-size: 1.5em;
+  padding: 0 12px;
+}
+@media (max-width: 767.98px) {
+  .class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .calendar-week {
+    padding: 0 3px;
+  }
+}
+.class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .calendar-week .calendar-week-selection {
+  font-weight: 700;
+  width: 3em;
+}
+@media (max-width: 767.98px) {
+  .class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .calendar-week .calendar-week-selection {
+    width: 2.8em;
+  }
+  .class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .calendar-week .calendar-week-selection .ng-value-container {
+    padding-left: 0.2em;
+  }
+}
+.class-hour-calendar .week-navigation .calendar-week-column .calendar-week-column-flex .calendar-week .calendar-week-selection .ng-input {
+  display: none;
+}
+.class-hour-calendar .calendar-swipe-area.swipe-enabled {
+  touch-action: pan-y pinch-zoom;
+}
+.class-hour-calendar .calendar-swipe-area .swipe-indicator {
+  display: none;
+  position: absolute;
+  top: min(50%, 40vh);
+  font-size: 2em;
+  color: var(--bs-secondary-color);
+  opacity: var(--swipe-progress, 0);
+}
+.class-hour-calendar table.calendar-table {
+  width: 100%;
+  margin-bottom: 1em;
+  table-layout: fixed;
+}
+.class-hour-calendar table.calendar-table tr th,
+.class-hour-calendar table.calendar-table tr td {
+  border: 1px solid #999;
+}
+.class-hour-calendar table.calendar-table tr th:first-child,
+.class-hour-calendar table.calendar-table tr td:first-child {
+  width: 10%;
+}
+.class-hour-calendar table.calendar-table tr th:not(:first-child),
+.class-hour-calendar table.calendar-table tr td:not(:first-child) {
+  width: 18%;
+}
+.class-hour-calendar table.calendar-table tr th {
+  text-align: center;
+}
+.class-hour-calendar table.calendar-table tr td * {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.visual-diff-new {
+  color: green;
+}
+.visual-diff-old {
+  color: red;
+}

@@ -1,0 +1,93 @@
+[
+ {
+  "name": null,
+  "instructor": "Herr Wesemeyer",
+  "description": "<p>Du interessierst dich f&uuml;r Computer, Netzwerke und digitale Technik? Dann bist du in der Schul-IT- und Medien-AG genau richtig!</p> <p>In unserer AG unterst&uuml;tzen wir die digitale Infrastruktur der Schule, besch&auml;ftigen uns mit Computern, Software und Netzwerktechnik und helfen bei verschiedenen IT-Projekten.</p>",
+  "foreignKey": null,
+  "id": 290828,
+  "minimumParticipants": 8,
+  "maximumParticipants": 20,
+  "createdAt": "2026-08-28T10:35:34.886Z",
+  "updatedAt": "2026-09-04T06:25:58.815Z",
+  "electiveId": 256019,
+  "slotId": null
+ },
+ {
+  "name": null,
+  "instructor": "Frau Schäfer",
+  "description": "<div> <div> <div tabindex=\"0\" role=\"article\" aria-labelledby=\"copilot-message-_r_182_-title copilot-message-_r_182_\" aria-setsize=\"8\" aria-posinset=\"8\" data-tabster=\"{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}\"> <div> </div> <div id=\"copilot-message-_r_182_\" dir=\"auto\"> <div> <div dir=\"auto\"> <div> <div> <div tabindex=\"-1\" data-testid=\"loading-message\" data-fui-focus-visible=\"\"> <div> <div> <div id=\"response-id_r_180_\" data-testid=\"lastChatMessage\"> <div> <div> <div dir=\"auto\" aria-hidden=\"false\" data-testid=\"markdown-reply\" data-message-id=\"8fe13566-c575-40e8-957d-5396283bb953\" data-message-type=\"Chat\"> <div> <p>Du bewegst dich gerne zu Musik, lernst gerne neue Choreografien und m&ouml;chtest Teil eines tollen Teams sein? Dann bist du in der Cheerleading-AG genau richtig!</p> <p>Gemeinsam &uuml;ben wir Tanzschritte, Cheer-Moves und verschiedene Figuren. Dabei trainieren wir Koordination, Beweglichkeit, Kraft und Teamgeist. Schritt f&uuml;r Schritt lernen wir kleine Hebefiguren und Formationen und bereiten uns auf Auftritte bei schulischen Veranstaltungen vor.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>",
+  "foreignKey": null,
+  "id": 290829,
+  "minimumParticipants": 0,
+  "maximumParticipants": 15,
+  "createdAt": "2026-08-28T10:35:34.891Z",
+  "updatedAt": "2026-09-04T06:24:58.283Z",
+  "electiveId": 256020,
+  "slotId": null
+ },
+ {
+  "name": null,
+  "instructor": "N.N.",
+  "description": "<div> <h3>Robotik-AG</h3> <p>Du interessierst dich f&uuml;r Technik, Programmieren und kreative Herausforderungen? Dann bist du in der Robotik-AG genau richtig!</p> <p>Mit den SPIKE-Robotern bauen und programmieren wir eigene Modelle und l&ouml;sen spannende Aufgaben. Dabei lernen wir, wie Sensoren, Motoren und Programme zusammenarbeiten. Ob Hindernisparcours, automatische Fahrzeuge oder knifflige Wettbewerbsaufgaben: Teamarbeit, kreatives Denken und Probleml&ouml;sen stehen immer im Mittelpunkt.</p> </div>",
+  "foreignKey": null,
+  "id": 290830,
+  "minimumParticipants": 0,
+  "maximumParticipants": 20,
+  "createdAt": "2026-08-28T10:35:34.899Z",
+  "updatedAt": "2026-09-04T06:24:50.931Z",
+  "electiveId": 256021,
+  "slotId": null
+ },
+ {
+  "name": null,
+  "instructor": "NN",
+  "description": "<p>Ich m&ouml;chte keine AG belegen</p>",
+  "foreignKey": null,
+  "id": 290832,
+  "minimumParticipants": 0,
+  "maximumParticipants": 999,
+  "createdAt": "2026-08-28T10:35:34.919Z",
+  "updatedAt": "2026-08-28T10:35:34.919Z",
+  "electiveId": 256023,
+  "slotId": null
+ },
+ {
+  "name": null,
+  "instructor": "Herr Dörre",
+  "description": "<div>Du singst gerne und hast Spa&szlig; an Musik? Dann bist du im Schulchor genau richtig! Gemeinsam singen wir aktuelle Songs, bekannte Klassiker und bereiten Auftritte f&uuml;r schulische Veranstaltungen vor.</div>",
+  "foreignKey": null,
+  "id": 290827,
+  "minimumParticipants": 6,
+  "maximumParticipants": 20,
+  "createdAt": "2026-08-28T10:35:34.880Z",
+  "updatedAt": "2026-09-04T06:24:20.452Z",
+  "electiveId": 256018,
+  "slotId": null
+ },
+ {
+  "name": null,
+  "instructor": "ASB",
+  "description": "<p>Jugendliche, die sich im Schulsanit&auml;tsdienst engagieren, sorgen bei Schul- und Sportfesten, Ausfl&uuml;gen und an ganz normalen Schultagen f&uuml;r Sicherheit und leisten in Notsituationen Erste Hilfe. Sie stehen bereit, um bei kleineren und gr&ouml;&szlig;eren Verletzungen und im Notfall schnell und kompetent zu helfen. Gleichzeitig lernen die Mitglieder der AG, Verantwortung zu &uuml;bernehmen, im Ernstfall gezielt zu handeln und anderen zu helfen. Bei erfolgreicher Teilnahme bekommen die Sch&uuml;ler:innen eine Erste-Hilfe-Bescheinigung f&uuml;r die Fahrerlaubnis.</p>",
+  "foreignKey": null,
+  "id": 290826,
+  "minimumParticipants": 8,
+  "maximumParticipants": 15,
+  "createdAt": "2026-08-28T10:35:34.872Z",
+  "updatedAt": "2026-08-31T05:22:58.267Z",
+  "electiveId": 256017,
+  "slotId": null
+ },
+ {
+  "name": null,
+  "instructor": "Frau Sander",
+  "description": "<div> <h3>AG Vertrauenssch&uuml;ler</h3> <p>Du m&ouml;chtest dazu beitragen, dass sich alle Sch&uuml;lerinnen und Sch&uuml;ler an unserer Schule wohlf&uuml;hlen? Dann bist du in der AG Vertrauenssch&uuml;ler genau richtig!</p> <p>Gemeinsam organisieren wir Angebote f&uuml;r die Pausen, schaffen M&ouml;glichkeiten zum Austausch und entwickeln Ideen f&uuml;r ein gutes Miteinander. Au&szlig;erdem haben ein offenes Ohr f&uuml;r W&uuml;nsche, Anregungen und Sorgen von Sch&uuml;lerinnen und Sch&uuml;lern.</p> </div>",
+  "foreignKey": null,
+  "id": 290831,
+  "minimumParticipants": 0,
+  "maximumParticipants": 20,
+  "createdAt": "2026-08-28T10:35:34.906Z",
+  "updatedAt": "2026-09-04T06:26:20.834Z",
+  "electiveId": 256022,
+  "slotId": null
+ }
+]

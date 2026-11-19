@@ -1,0 +1,310 @@
+[
+ {
+  "id": 3,
+  "name": "exams",
+  "label": "Klassenarbeiten",
+  "createdAt": "2016-11-02T08:32:31.028Z",
+  "updatedAt": "2016-11-02T08:32:31.028Z"
+ },
+ {
+  "id": 6,
+  "name": "calendar",
+  "label": "Kalender",
+  "createdAt": "2017-01-04T22:39:39.510Z",
+  "updatedAt": "2017-01-04T22:39:39.510Z"
+ },
+ {
+  "id": 7,
+  "name": "letters",
+  "label": "Elternbriefe",
+  "createdAt": "2017-04-06T22:53:09.804Z",
+  "updatedAt": "2017-04-06T22:53:09.804Z"
+ },
+ {
+  "id": 9,
+  "name": "electives",
+  "label": "Wahlfächer",
+  "createdAt": "2017-04-25T21:46:26.096Z",
+  "updatedAt": "2017-04-25T21:46:26.096Z"
+ },
+ {
+  "id": 10,
+  "name": "classbook",
+  "label": "Klassenbuch",
+  "createdAt": "2017-09-04T23:18:58.457Z",
+  "updatedAt": "2017-09-04T23:18:58.457Z"
+ },
+ {
+  "id": 11,
+  "name": "schedules",
+  "label": "Stundenplan",
+  "createdAt": "2017-09-04T23:18:58.494Z",
+  "updatedAt": "2017-09-04T23:18:58.494Z"
+ },
+ {
+  "id": 12,
+  "name": "exemptions",
+  "label": "Beurlaubung",
+  "createdAt": "2017-09-04T23:18:58.476Z",
+  "updatedAt": "2017-09-04T23:18:58.476Z"
+ },
+ {
+  "id": 13,
+  "name": "sick",
+  "label": "Krankmeldung",
+  "createdAt": "2017-09-04T23:18:58.503Z",
+  "updatedAt": "2017-09-04T23:18:58.503Z"
+ },
+ {
+  "id": 14,
+  "name": "meetings",
+  "label": "Sprechstunden",
+  "createdAt": "2018-01-05T01:11:00.751Z",
+  "updatedAt": "2018-01-05T01:11:00.751Z"
+ },
+ {
+  "id": 15,
+  "name": "documents",
+  "label": "Dokumente",
+  "createdAt": "2018-03-18T23:57:38.942Z",
+  "updatedAt": "2018-03-18T23:57:38.942Z"
+ },
+ {
+  "id": 16,
+  "name": "infoscreen",
+  "label": "Infoscreen",
+  "createdAt": "2018-09-09T21:43:46.803Z",
+  "updatedAt": "2018-09-09T21:43:46.803Z"
+ },
+ {
+  "id": 17,
+  "name": "respicience",
+  "label": "Respizienz",
+  "createdAt": "2018-09-09T21:43:46.821Z",
+  "updatedAt": "2018-09-09T21:43:46.821Z"
+ },
+ {
+  "id": 32,
+  "name": "parenttalks",
+  "label": "Elterngespräche",
+  "createdAt": "2020-01-04T23:11:21.523Z",
+  "updatedAt": "2020-01-04T23:11:21.523Z"
+ },
+ {
+  "id": 33,
+  "name": "detention",
+  "label": "Nacharbeit",
+  "createdAt": "2020-02-08T21:30:06.007Z",
+  "updatedAt": "2020-02-08T21:30:06.007Z"
+ },
+ {
+  "id": 20,
+  "name": "conferences",
+  "label": "Elternsprechtag",
+  "createdAt": "2018-10-24T21:13:11.267Z",
+  "updatedAt": "2018-10-24T21:13:11.267Z"
+ },
+ {
+  "id": 2,
+  "name": "resources",
+  "label": "Ressourcen",
+  "createdAt": "2016-10-26T04:39:50.746Z",
+  "updatedAt": "2018-10-24T21:13:11.359Z"
+ },
+ {
+  "id": 8,
+  "name": "invoicing",
+  "label": "Zahlungen",
+  "createdAt": "2017-04-06T22:53:09.805Z",
+  "updatedAt": "2018-10-24T21:13:11.314Z"
+ },
+ {
+  "id": 1,
+  "name": "schooldata",
+  "label": "Verwaltung",
+  "createdAt": "2016-10-26T04:39:50.745Z",
+  "updatedAt": "2018-10-24T21:13:11.375Z"
+ },
+ {
+  "id": 5,
+  "name": "tiles",
+  "label": "Schwarzes Brett",
+  "createdAt": "2016-12-17T23:25:10.000Z",
+  "updatedAt": "2018-10-24T21:13:11.422Z"
+ },
+ {
+  "id": 21,
+  "name": "exports",
+  "label": "Exportschnittstellen",
+  "createdAt": "2018-12-05T23:27:30.987Z",
+  "updatedAt": "2018-12-05T23:27:30.987Z"
+ },
+ {
+  "id": 22,
+  "name": "schoolpractice",
+  "label": "Schulpraxis",
+  "createdAt": "2018-12-17T23:46:33.886Z",
+  "updatedAt": "2018-12-17T23:46:33.886Z"
+ },
+ {
+  "id": 23,
+  "name": "studentmanagement",
+  "label": "Studierende",
+  "createdAt": "2018-12-17T23:46:33.906Z",
+  "updatedAt": "2018-12-17T23:46:33.906Z"
+ },
+ {
+  "id": 4,
+  "name": "su",
+  "label": "Backoffice",
+  "createdAt": "2016-12-11T19:08:38.745Z",
+  "updatedAt": "2022-01-13T09:37:29.803Z"
+ },
+ {
+  "id": 26,
+  "name": "substitutions",
+  "label": "Vertretungsplanung",
+  "createdAt": "2019-05-05T12:12:47.409Z",
+  "updatedAt": "2019-05-05T12:12:47.409Z"
+ },
+ {
+  "id": 27,
+  "name": "messenger",
+  "label": "Nachrichten",
+  "createdAt": "2019-06-10T19:57:29.763Z",
+  "updatedAt": "2019-06-10T19:57:29.763Z"
+ },
+ {
+  "id": 28,
+  "name": "grades",
+  "label": "Noten",
+  "createdAt": "2019-06-23T17:38:16.403Z",
+  "updatedAt": "2019-06-23T17:38:16.403Z"
+ },
+ {
+  "id": 29,
+  "name": "certificates",
+  "label": "Zeugnisse",
+  "createdAt": "2019-07-01T22:56:02.132Z",
+  "updatedAt": "2019-07-01T22:56:02.132Z"
+ },
+ {
+  "id": 30,
+  "name": "timetabling",
+  "label": "Stundenplanung",
+  "createdAt": "2019-08-20T21:26:37.613Z",
+  "updatedAt": "2019-08-20T21:26:37.613Z"
+ },
+ {
+  "id": 31,
+  "name": "gfs",
+  "label": "GFS",
+  "createdAt": "2019-09-01T22:42:26.985Z",
+  "updatedAt": "2019-09-01T22:42:26.985Z"
+ },
+ {
+  "id": 25,
+  "name": "absences",
+  "label": "Fehlzeiten",
+  "createdAt": "2019-02-10T23:31:31.238Z",
+  "updatedAt": "2019-11-03T22:34:14.228Z"
+ },
+ {
+  "id": 34,
+  "name": "learning",
+  "label": "Lernen",
+  "createdAt": "2020-04-16T17:21:18.986Z",
+  "updatedAt": "2020-04-16T17:21:18.986Z"
+ },
+ {
+  "id": 35,
+  "name": "video",
+  "label": "Videokonferenzen",
+  "createdAt": "2020-08-30T21:09:59.554Z",
+  "updatedAt": "2020-08-30T21:09:59.554Z"
+ },
+ {
+  "id": 36,
+  "name": "corona",
+  "label": "Corona",
+  "createdAt": "2020-10-27T20:51:07.904Z",
+  "updatedAt": "2020-10-27T20:51:07.904Z"
+ },
+ {
+  "id": 37,
+  "name": "courseselection",
+  "label": "Oberstufenwahl",
+  "createdAt": "2021-12-10T13:51:05.169Z",
+  "updatedAt": "2021-12-10T13:51:05.169Z"
+ },
+ {
+  "id": 38,
+  "name": "overtime",
+  "label": "Mehrarbeit",
+  "createdAt": "2022-12-18T16:27:05.757Z",
+  "updatedAt": "2022-12-18T16:27:05.757Z"
+ },
+ {
+  "id": 39,
+  "name": "schoolinformation",
+  "label": "Schulinformationen",
+  "createdAt": "2023-10-23T15:59:07.457Z",
+  "updatedAt": "2023-10-23T15:59:07.457Z"
+ },
+ {
+  "id": 40,
+  "name": "gradereports",
+  "label": "Zwischenberichte",
+  "createdAt": "2023-12-14T11:40:29.006Z",
+  "updatedAt": "2023-12-14T11:40:29.006Z"
+ },
+ {
+  "id": 41,
+  "name": "allday",
+  "label": "Ganztag",
+  "createdAt": "2024-11-15T17:13:15.385Z",
+  "updatedAt": "2024-11-15T17:13:15.385Z"
+ },
+ {
+  "id": 42,
+  "name": "behaviorgrades",
+  "label": "Kopfnoten",
+  "createdAt": "2025-06-17T17:30:34.177Z",
+  "updatedAt": "2025-06-17T17:30:34.177Z"
+ },
+ {
+  "id": 43,
+  "name": "certificateconference",
+  "label": "Zeugniskonferenz",
+  "createdAt": "2025-07-22T16:36:01.250Z",
+  "updatedAt": "2025-07-22T16:36:01.250Z"
+ },
+ {
+  "id": 44,
+  "name": "learningdevelopment",
+  "label": "LEG",
+  "createdAt": "2025-11-20T17:49:25.191Z",
+  "updatedAt": "2025-11-20T17:49:25.191Z"
+ },
+ {
+  "id": 45,
+  "name": "schoolregistration",
+  "label": "Schulanmeldung",
+  "createdAt": "2026-01-15T19:32:18.703Z",
+  "updatedAt": "2026-01-15T19:32:18.703Z"
+ },
+ {
+  "id": 46,
+  "name": "studentrecord",
+  "label": "Schülerakte",
+  "createdAt": "2026-02-10T20:27:09.426Z",
+  "updatedAt": "2026-02-10T20:27:09.426Z"
+ },
+ {
+  "id": 47,
+  "name": "externalapplicationmanagement",
+  "label": "Externe Anwendung verwalten",
+  "createdAt": "2026-05-04T12:49:25.273Z",
+  "updatedAt": "2026-05-04T12:49:25.273Z"
+ }
+]

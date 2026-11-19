@@ -1,0 +1,2403 @@
+{
+  "counters": {
+    "users": 5,
+    "classes": 5,
+    "subjects": 22,
+    "teachers": 130,
+    "students": 6,
+    "events": 5,
+    "exams": 4,
+    "threads": 5,
+    "messages": 9,
+    "homework": 4,
+    "detentions": 3,
+    "invoices": 4,
+    "letters": 3,
+    "lessons": 51,
+    "widgets": 4
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Administrator",
+      "email": "admin@schule.de",
+      "password": "admin123",
+      "role": "admin",
+      "avatar": "A"
+    },
+    {
+      "id": 2,
+      "name": "Katrin Zimmer",
+      "email": "zimmer@schule.de",
+      "password": "lehrer123",
+      "role": "teacher",
+      "avatar": "KZ"
+    },
+    {
+      "id": 3,
+      "name": "Max Mustermann",
+      "email": "max@schule.de",
+      "password": "schueler123",
+      "role": "student",
+      "avatar": "MM"
+    },
+    {
+      "id": 4,
+      "name": "Erika Mustermann",
+      "email": "erika@schule.de",
+      "password": "eltern123",
+      "role": "parent",
+      "avatar": "EM"
+    },
+    {
+      "name": "Grischa",
+      "email": "frislop21@gmail.com",
+      "password": "Neodeo34",
+      "role": "student",
+      "avatar": "HH",
+      "id": 5
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "8-2",
+      "grade": 8,
+      "room": "222",
+      "teacherId": 50
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Deutsch",
+      "short": "Deu",
+      "color": "#428bca"
+    },
+    {
+      "id": 2,
+      "name": "Mathematik",
+      "short": "Mat",
+      "color": "#5cb85c"
+    },
+    {
+      "id": 3,
+      "name": "Englisch",
+      "short": "Eng",
+      "color": "#f0ad4e"
+    },
+    {
+      "id": 4,
+      "name": "Ethik",
+      "short": "Eth",
+      "color": "#d9534f"
+    },
+    {
+      "id": 5,
+      "name": "Geografie",
+      "short": "Ges",
+      "color": "#5bc0de"
+    },
+    {
+      "id": 6,
+      "name": "Sozialkunde",
+      "short": "Soz",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 7,
+      "name": "Chemie",
+      "short": "Che",
+      "color": "#e67e22"
+    },
+    {
+      "id": 8,
+      "name": "Sport",
+      "short": "Spo",
+      "color": "#2ecc71"
+    },
+    {
+      "id": 9,
+      "name": "Französisch",
+      "short": "Frz",
+      "color": "#71639e"
+    },
+    {
+      "id": 10,
+      "name": "Physik",
+      "short": "Phy",
+      "color": "#337ab7"
+    },
+    {
+      "id": 11,
+      "name": "Hauswirtschaft",
+      "short": "HWi",
+      "color": "#8e6e53"
+    },
+    {
+      "id": 12,
+      "name": "Technik",
+      "short": "Tec",
+      "color": "#607d8b"
+    },
+    {
+      "id": 13,
+      "name": "Lernzeit",
+      "short": "LZE",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 14,
+      "name": "Lernzeit",
+      "short": "LZM",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 15,
+      "name": "Methodentraining",
+      "short": "MT",
+      "color": "#95a5a6"
+    },
+    {
+      "id": 16,
+      "name": "Betrieb",
+      "short": "Betr",
+      "color": "#c0392b"
+    },
+    {
+      "id": 17,
+      "name": "Arbeitslehre",
+      "short": "AL",
+      "color": "#b8860b"
+    },
+    {
+      "id": 18,
+      "name": "Musik",
+      "short": "Mus",
+      "color": "#7e57c2"
+    },
+    {
+      "id": 19,
+      "name": "Biologie",
+      "short": "Bio",
+      "color": "#43a047"
+    },
+    {
+      "id": 20,
+      "name": "Kunst",
+      "short": "Kun",
+      "color": "#d81b60"
+    },
+    {
+      "id": 21,
+      "name": "Wirtschaft",
+      "short": "Wir",
+      "color": "#00897b"
+    },
+    {
+      "id": 22,
+      "name": "Lernzeit Deutsch",
+      "short": "LZD",
+      "color": "#7f8c8d"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Jacqueline Schultz",
+      "short": "Schu",
+      "firstName": "Jacqueline",
+      "lastName": "Schultz"
+    },
+    {
+      "id": 2,
+      "name": "Tom Tester Lehrer",
+      "short": "Lehr",
+      "firstName": "Tom Tester",
+      "lastName": "Lehrer"
+    },
+    {
+      "id": 3,
+      "name": "Linda Rose",
+      "short": "Rose",
+      "firstName": "Linda",
+      "lastName": "Rose"
+    },
+    {
+      "id": 4,
+      "name": "Antonia Wiskemann",
+      "short": "Wisk",
+      "firstName": "Antonia",
+      "lastName": "Wiskemann"
+    },
+    {
+      "id": 5,
+      "name": "Nutzer Temp",
+      "short": "Temp",
+      "firstName": "Nutzer",
+      "lastName": "Temp"
+    },
+    {
+      "id": 6,
+      "name": "tom Lehrer",
+      "short": "Lehr",
+      "firstName": "tom",
+      "lastName": "Lehrer"
+    },
+    {
+      "id": 7,
+      "name": "Sophie Oeding",
+      "short": "Oed",
+      "firstName": "Sophie",
+      "lastName": "Oeding"
+    },
+    {
+      "id": 8,
+      "name": "Luise Meier",
+      "short": "Mei",
+      "firstName": "Luise",
+      "lastName": "Meier"
+    },
+    {
+      "id": 9,
+      "name": "Katja Hierse",
+      "short": "Hier",
+      "firstName": "Katja",
+      "lastName": "Hierse"
+    },
+    {
+      "id": 10,
+      "name": "Franziska Hildenbrandt",
+      "short": "Hild",
+      "firstName": "Franziska",
+      "lastName": "Hildenbrandt"
+    },
+    {
+      "id": 11,
+      "name": "Ines Krüger",
+      "short": "Krü",
+      "firstName": "Ines",
+      "lastName": "Krüger"
+    },
+    {
+      "id": 12,
+      "name": "Matthias Kiwatt",
+      "short": "Kiw",
+      "firstName": "Matthias",
+      "lastName": "Kiwatt"
+    },
+    {
+      "id": 13,
+      "name": "Hannah Koschyk",
+      "short": "Kosch",
+      "firstName": "Hannah",
+      "lastName": "Koschyk"
+    },
+    {
+      "id": 14,
+      "name": "Regina Krüger",
+      "short": "KrüR",
+      "firstName": "Regina",
+      "lastName": "Krüger"
+    },
+    {
+      "id": 15,
+      "name": "Michael Kresse",
+      "short": "Kres",
+      "firstName": "Michael",
+      "lastName": "Kresse"
+    },
+    {
+      "id": 16,
+      "name": "Katrin Barbutzki",
+      "short": "Barb",
+      "firstName": "Katrin",
+      "lastName": "Barbutzki"
+    },
+    {
+      "id": 17,
+      "name": "Iuliia Beliaeva",
+      "short": "Bel",
+      "firstName": "Iuliia",
+      "lastName": "Beliaeva"
+    },
+    {
+      "id": 18,
+      "name": "Jana Benecke",
+      "short": "Ben",
+      "firstName": "Jana",
+      "lastName": "Benecke"
+    },
+    {
+      "id": 19,
+      "name": "Lukas Bergmann",
+      "short": "Berg",
+      "firstName": "Lukas",
+      "lastName": "Bergmann"
+    },
+    {
+      "id": 20,
+      "name": "Marcel Guder",
+      "short": "Gud",
+      "firstName": "Marcel",
+      "lastName": "Guder"
+    },
+    {
+      "id": 21,
+      "name": "Lea Preetz",
+      "short": "Pree",
+      "firstName": "Lea",
+      "lastName": "Preetz"
+    },
+    {
+      "id": 22,
+      "name": "Jacqueline Siebert",
+      "short": "Sieb",
+      "firstName": "Jacqueline",
+      "lastName": "Siebert"
+    },
+    {
+      "id": 23,
+      "name": "Justin Haefke",
+      "short": "Haef",
+      "firstName": "Justin",
+      "lastName": "Haefke"
+    },
+    {
+      "id": 24,
+      "name": "Julia Hannemann",
+      "short": "Hann",
+      "firstName": "Julia",
+      "lastName": "Hannemann"
+    },
+    {
+      "id": 25,
+      "name": "Mariia Sames",
+      "short": "Sam",
+      "firstName": "Mariia",
+      "lastName": "Sames"
+    },
+    {
+      "id": 26,
+      "name": "Anna Steinigk",
+      "short": "SteiA",
+      "firstName": "Anna",
+      "lastName": "Steinigk"
+    },
+    {
+      "id": 27,
+      "name": "Yvonne Schwarz",
+      "short": ".SchY",
+      "firstName": "Yvonne",
+      "lastName": "Schwarz"
+    },
+    {
+      "id": 28,
+      "name": "Romy Scarbatha",
+      "short": "Scar",
+      "firstName": "Romy",
+      "lastName": "Scarbatha"
+    },
+    {
+      "id": 29,
+      "name": "Torsten Siek",
+      "short": "Siek",
+      "firstName": "Torsten",
+      "lastName": "Siek"
+    },
+    {
+      "id": 30,
+      "name": "Philipp Gehlert",
+      "short": "Gehl",
+      "firstName": "Philipp",
+      "lastName": "Gehlert"
+    },
+    {
+      "id": 31,
+      "name": "Svitlana Nykolaychuk",
+      "short": "Nyko",
+      "firstName": "Svitlana",
+      "lastName": "Nykolaychuk"
+    },
+    {
+      "id": 32,
+      "name": "Damiano Pagliaresi",
+      "short": "Pagl",
+      "firstName": "Damiano",
+      "lastName": "Pagliaresi"
+    },
+    {
+      "id": 33,
+      "name": "Rolf Grosch",
+      "short": "Gro",
+      "firstName": "Rolf",
+      "lastName": "Grosch"
+    },
+    {
+      "id": 34,
+      "name": "Leonie Grünwald",
+      "short": "Grün",
+      "firstName": "Leonie",
+      "lastName": "Grünwald"
+    },
+    {
+      "id": 35,
+      "name": "Matthias Gramzow",
+      "short": "Gramz",
+      "firstName": "Matthias",
+      "lastName": "Gramzow"
+    },
+    {
+      "id": 36,
+      "name": "Elisa Müller",
+      "short": "Mül",
+      "firstName": "Elisa",
+      "lastName": "Müller"
+    },
+    {
+      "id": 37,
+      "name": "Hans-Henning Münch",
+      "short": "Münch",
+      "firstName": "Hans-Henning",
+      "lastName": "Münch"
+    },
+    {
+      "id": 38,
+      "name": "Julia Bernert",
+      "short": "Bern",
+      "firstName": "Julia",
+      "lastName": "Bernert"
+    },
+    {
+      "id": 39,
+      "name": "Reik Dietrichkeit",
+      "short": "DietR",
+      "firstName": "Reik",
+      "lastName": "Dietrichkeit"
+    },
+    {
+      "id": 40,
+      "name": "Denis Fabian",
+      "short": "Fab",
+      "firstName": "Denis",
+      "lastName": "Fabian"
+    },
+    {
+      "id": 41,
+      "name": "Sandra Fischer",
+      "short": ".Fins",
+      "firstName": "Sandra",
+      "lastName": "Fischer"
+    },
+    {
+      "id": 42,
+      "name": "Christiane Mohs-Käferstein",
+      "short": ".ASB",
+      "firstName": "Christiane",
+      "lastName": "Mohs-Käferstein"
+    },
+    {
+      "id": 43,
+      "name": "Antje Haase",
+      "short": "Haase",
+      "firstName": "Antje",
+      "lastName": "Haase"
+    },
+    {
+      "id": 44,
+      "name": "Sergio-Antonino Midolo",
+      "short": "Mido",
+      "firstName": "Sergio-Antonino",
+      "lastName": "Midolo"
+    },
+    {
+      "id": 45,
+      "name": "Cathrin Heibrock",
+      "short": "Heib",
+      "firstName": "Cathrin",
+      "lastName": "Heibrock"
+    },
+    {
+      "id": 46,
+      "name": "Florian Klimenta",
+      "short": "Klim",
+      "firstName": "Florian",
+      "lastName": "Klimenta"
+    },
+    {
+      "id": 47,
+      "name": "Lea Marie Köhler",
+      "short": "Köhl",
+      "firstName": "Lea Marie",
+      "lastName": "Köhler"
+    },
+    {
+      "id": 48,
+      "name": "Lea-Sophie Kubusch",
+      "short": "KubuL",
+      "firstName": "Lea-Sophie",
+      "lastName": "Kubusch"
+    },
+    {
+      "id": 49,
+      "name": "Nadine Kupfer-Glück",
+      "short": "Kupf",
+      "firstName": "Nadine",
+      "lastName": "Kupfer-Glück"
+    },
+    {
+      "id": 50,
+      "name": "Claudia Liebich",
+      "short": "Lieb",
+      "firstName": "Claudia",
+      "lastName": "Liebich"
+    },
+    {
+      "id": 51,
+      "name": "Nils Röstermundt",
+      "short": "Röst",
+      "firstName": "Nils",
+      "lastName": "Röstermundt"
+    },
+    {
+      "id": 52,
+      "name": "André Rumpel",
+      "short": "Rump",
+      "firstName": "André",
+      "lastName": "Rumpel"
+    },
+    {
+      "id": 53,
+      "name": "Felizitas Schäfer",
+      "short": "SchäF",
+      "firstName": "Felizitas",
+      "lastName": "Schäfer"
+    },
+    {
+      "id": 54,
+      "name": "Max Schäfer",
+      "short": "SchäM",
+      "firstName": "Max",
+      "lastName": "Schäfer"
+    },
+    {
+      "id": 55,
+      "name": "Florian Jacobs",
+      "short": "Jac",
+      "firstName": "Florian",
+      "lastName": "Jacobs"
+    },
+    {
+      "id": 56,
+      "name": "Carolin Jahn",
+      "short": "Jahn",
+      "firstName": "Carolin",
+      "lastName": "Jahn"
+    },
+    {
+      "id": 57,
+      "name": "Markus Ulbricht",
+      "short": ".UlbM",
+      "firstName": "Markus",
+      "lastName": "Ulbricht"
+    },
+    {
+      "id": 58,
+      "name": "Jens Aebi",
+      "short": ".Aebi",
+      "firstName": "Jens",
+      "lastName": "Aebi"
+    },
+    {
+      "id": 59,
+      "name": "Lehrer",
+      "short": "...",
+      "firstName": "",
+      "lastName": "Lehrer"
+    },
+    {
+      "id": 60,
+      "name": "Carina Behrendt",
+      "short": ".BehC",
+      "firstName": "Carina",
+      "lastName": "Behrendt"
+    },
+    {
+      "id": 61,
+      "name": "Regina Hantel",
+      "short": "Hant",
+      "firstName": "Regina",
+      "lastName": "Hantel"
+    },
+    {
+      "id": 62,
+      "name": "Diana Heinevetter",
+      "short": "Heine",
+      "firstName": "Diana",
+      "lastName": "Heinevetter"
+    },
+    {
+      "id": 63,
+      "name": "Helge Hinze",
+      "short": "Hinze",
+      "firstName": "Helge",
+      "lastName": "Hinze"
+    },
+    {
+      "id": 64,
+      "name": "Jens-Uwe Hoffmeyer",
+      "short": "Hoffm",
+      "firstName": "Jens-Uwe",
+      "lastName": "Hoffmeyer"
+    },
+    {
+      "id": 65,
+      "name": "Christian Kubusch",
+      "short": "Kubu",
+      "firstName": "Christian",
+      "lastName": "Kubusch"
+    },
+    {
+      "id": 66,
+      "name": "Katrin Kunze",
+      "short": "Kunz",
+      "firstName": "Katrin",
+      "lastName": "Kunze"
+    },
+    {
+      "id": 67,
+      "name": "Gerhard Küter",
+      "short": "Küt",
+      "firstName": "Gerhard",
+      "lastName": "Küter"
+    },
+    {
+      "id": 68,
+      "name": "Susan Lanfer",
+      "short": "Lanf",
+      "firstName": "Susan",
+      "lastName": "Lanfer"
+    },
+    {
+      "id": 69,
+      "name": "Silvia Leibner",
+      "short": "Leib",
+      "firstName": "Silvia",
+      "lastName": "Leibner"
+    },
+    {
+      "id": 70,
+      "name": "Daniela Hoffmann",
+      "short": ".HofD",
+      "firstName": "Daniela",
+      "lastName": "Hoffmann"
+    },
+    {
+      "id": 71,
+      "name": "Jule Sander",
+      "short": ".Sand",
+      "firstName": "Jule",
+      "lastName": "Sander"
+    },
+    {
+      "id": 72,
+      "name": "Peter Bojanow",
+      "short": "Boja",
+      "firstName": "Peter",
+      "lastName": "Bojanow"
+    },
+    {
+      "id": 73,
+      "name": "Marlen Bokranz",
+      "short": "Bok",
+      "firstName": "Marlen",
+      "lastName": "Bokranz"
+    },
+    {
+      "id": 74,
+      "name": "Matthias Dieterichs",
+      "short": "Diet",
+      "firstName": "Matthias",
+      "lastName": "Dieterichs"
+    },
+    {
+      "id": 75,
+      "name": "Steffi Pralow",
+      "short": "Pral",
+      "firstName": "Steffi",
+      "lastName": "Pralow"
+    },
+    {
+      "id": 76,
+      "name": "Karsten Neumann",
+      "short": "NeuK",
+      "firstName": "Karsten",
+      "lastName": "Neumann"
+    },
+    {
+      "id": 77,
+      "name": "Sabine Oertwig",
+      "short": ".OerS",
+      "firstName": "Sabine",
+      "lastName": "Oertwig"
+    },
+    {
+      "id": 78,
+      "name": "Jonas Wenzel",
+      "short": "Wenz",
+      "firstName": "Jonas",
+      "lastName": "Wenzel"
+    },
+    {
+      "id": 79,
+      "name": "Susanne Weigelt",
+      "short": "Weig",
+      "firstName": "Susanne",
+      "lastName": "Weigelt"
+    },
+    {
+      "id": 80,
+      "name": "Finn Luca Melzian",
+      "short": ".Melz",
+      "firstName": "Finn Luca",
+      "lastName": "Melzian"
+    },
+    {
+      "id": 81,
+      "name": "Andreas Wesemeyer",
+      "short": "Wese",
+      "firstName": "Andreas",
+      "lastName": "Wesemeyer"
+    },
+    {
+      "id": 82,
+      "name": "Richard Schmidt",
+      "short": "Schmi",
+      "firstName": "Richard",
+      "lastName": "Schmidt"
+    },
+    {
+      "id": 83,
+      "name": "Nicolas Schöndube",
+      "short": "Schön",
+      "firstName": "Nicolas",
+      "lastName": "Schöndube"
+    },
+    {
+      "id": 84,
+      "name": "Marius Steinberg",
+      "short": "SteiM",
+      "firstName": "Marius",
+      "lastName": "Steinberg"
+    },
+    {
+      "id": 85,
+      "name": "Nancy Steinberg",
+      "short": "SteiN",
+      "firstName": "Nancy",
+      "lastName": "Steinberg"
+    },
+    {
+      "id": 86,
+      "name": "Norman Tzschoppe",
+      "short": "Tzsch",
+      "firstName": "Norman",
+      "lastName": "Tzschoppe"
+    },
+    {
+      "id": 87,
+      "name": "Ricarda Wallborn",
+      "short": "Wall",
+      "firstName": "Ricarda",
+      "lastName": "Wallborn"
+    },
+    {
+      "id": 88,
+      "name": "Anne Zander",
+      "short": "Zan",
+      "firstName": "Anne",
+      "lastName": "Zander"
+    },
+    {
+      "id": 89,
+      "name": "Katrin Zimmer",
+      "short": "Zim",
+      "firstName": "Katrin",
+      "lastName": "Zimmer"
+    },
+    {
+      "id": 90,
+      "name": "Marvin Panofen",
+      "short": "Pan",
+      "firstName": "Marvin",
+      "lastName": "Panofen"
+    },
+    {
+      "id": 91,
+      "name": "Nico Richter",
+      "short": "Richt",
+      "firstName": "Nico",
+      "lastName": "Richter"
+    },
+    {
+      "id": 92,
+      "name": "Kerstin Schubert",
+      "short": "SchK",
+      "firstName": "Kerstin",
+      "lastName": "Schubert"
+    },
+    {
+      "id": 93,
+      "name": "Dorit Heinrichs",
+      "short": "HeiD",
+      "firstName": "Dorit",
+      "lastName": "Heinrichs"
+    },
+    {
+      "id": 94,
+      "name": "Petra Masannek",
+      "short": "Masa",
+      "firstName": "Petra",
+      "lastName": "Masannek"
+    },
+    {
+      "id": 95,
+      "name": "Kathrin Niedziella",
+      "short": "Nied",
+      "firstName": "Kathrin",
+      "lastName": "Niedziella"
+    },
+    {
+      "id": 96,
+      "name": "Birgit Eisfeld",
+      "short": "Eis",
+      "firstName": "Birgit",
+      "lastName": "Eisfeld"
+    },
+    {
+      "id": 97,
+      "name": "Fabian Engelmann",
+      "short": "Eng",
+      "firstName": "Fabian",
+      "lastName": "Engelmann"
+    },
+    {
+      "id": 98,
+      "name": "Nils Falkenberg",
+      "short": "Falk",
+      "firstName": "Nils",
+      "lastName": "Falkenberg"
+    },
+    {
+      "id": 99,
+      "name": "Sahad Hamrasch",
+      "short": "Ham",
+      "firstName": "Sahad",
+      "lastName": "Hamrasch"
+    },
+    {
+      "id": 100,
+      "name": "Joshua Holtermann",
+      "short": "Holt",
+      "firstName": "Joshua",
+      "lastName": "Holtermann"
+    },
+    {
+      "id": 101,
+      "name": "Annett Lingener",
+      "short": "LinA",
+      "firstName": "Annett",
+      "lastName": "Lingener"
+    },
+    {
+      "id": 102,
+      "name": "Alexander Lück",
+      "short": "Lück",
+      "firstName": "Alexander",
+      "lastName": "Lück"
+    },
+    {
+      "id": 103,
+      "name": "Florian Lück",
+      "short": "LückF",
+      "firstName": "Florian",
+      "lastName": "Lück"
+    },
+    {
+      "id": 104,
+      "name": "Carsten Mai",
+      "short": "MaiC",
+      "firstName": "Carsten",
+      "lastName": "Mai"
+    },
+    {
+      "id": 105,
+      "name": "Daniel Malek",
+      "short": "MalD",
+      "firstName": "Daniel",
+      "lastName": "Malek"
+    },
+    {
+      "id": 106,
+      "name": "Berit Mangelsdorf",
+      "short": "Mang",
+      "firstName": "Berit",
+      "lastName": "Mangelsdorf"
+    },
+    {
+      "id": 107,
+      "name": "Linda Merker",
+      "short": "Mer",
+      "firstName": "Linda",
+      "lastName": "Merker"
+    },
+    {
+      "id": 108,
+      "name": "Volker Nitschke",
+      "short": "Nit",
+      "firstName": "Volker",
+      "lastName": "Nitschke"
+    },
+    {
+      "id": 109,
+      "name": "Janko Pedal",
+      "short": "Peda",
+      "firstName": "Janko",
+      "lastName": "Pedal"
+    },
+    {
+      "id": 110,
+      "name": "Till Peters",
+      "short": "Pet",
+      "firstName": "Till",
+      "lastName": "Peters"
+    },
+    {
+      "id": 111,
+      "name": "Anke Prellwitz",
+      "short": "Prel",
+      "firstName": "Anke",
+      "lastName": "Prellwitz"
+    },
+    {
+      "id": 112,
+      "name": "Eik Ruddat",
+      "short": "RudE",
+      "firstName": "Eik",
+      "lastName": "Ruddat"
+    },
+    {
+      "id": 113,
+      "name": "Svenja Schilling",
+      "short": "Schil",
+      "firstName": "Svenja",
+      "lastName": "Schilling"
+    },
+    {
+      "id": 114,
+      "name": "Astrid Schulz",
+      "short": "Schul",
+      "firstName": "Astrid",
+      "lastName": "Schulz"
+    },
+    {
+      "id": 115,
+      "name": "Jonas Schumann",
+      "short": "Schum",
+      "firstName": "Jonas",
+      "lastName": "Schumann"
+    },
+    {
+      "id": 116,
+      "name": "Manuela Seegers",
+      "short": "SeeM",
+      "firstName": "Manuela",
+      "lastName": "Seegers"
+    },
+    {
+      "id": 117,
+      "name": "Steve Seeger",
+      "short": "SeeS",
+      "firstName": "Steve",
+      "lastName": "Seeger"
+    },
+    {
+      "id": 118,
+      "name": "Ute Selle",
+      "short": "Selle",
+      "firstName": "Ute",
+      "lastName": "Selle"
+    },
+    {
+      "id": 119,
+      "name": "Tina Stolz",
+      "short": "Sto",
+      "firstName": "Tina",
+      "lastName": "Stolz"
+    },
+    {
+      "id": 120,
+      "name": "Sandra Stockmann",
+      "short": "Stock",
+      "firstName": "Sandra",
+      "lastName": "Stockmann"
+    },
+    {
+      "id": 121,
+      "name": "Korinna Suhr",
+      "short": "Suhr",
+      "firstName": "Korinna",
+      "lastName": "Suhr"
+    },
+    {
+      "id": 122,
+      "name": "Lars Teich",
+      "short": "Teich",
+      "firstName": "Lars",
+      "lastName": "Teich"
+    },
+    {
+      "id": 123,
+      "name": "Nadine Thomas",
+      "short": "Thom",
+      "firstName": "Nadine",
+      "lastName": "Thomas"
+    },
+    {
+      "id": 124,
+      "name": "Thomas Wagner",
+      "short": "Wagn",
+      "firstName": "Thomas",
+      "lastName": "Wagner"
+    },
+    {
+      "id": 125,
+      "name": "Birgit Trunte",
+      "short": "Trun",
+      "firstName": "Birgit",
+      "lastName": "Trunte"
+    },
+    {
+      "id": 126,
+      "name": "Violetta Tulkin",
+      "short": "Tulk",
+      "firstName": "Violetta",
+      "lastName": "Tulkin"
+    },
+    {
+      "id": 127,
+      "name": "Fabienne Pertes",
+      "short": "Pert",
+      "firstName": "Fabienne",
+      "lastName": "Pertes"
+    },
+    {
+      "id": 128,
+      "name": "Jakob Dörre",
+      "short": "Dörre",
+      "firstName": "Jakob",
+      "lastName": "Dörre"
+    },
+    {
+      "id": 129,
+      "name": "Anja Drechsel",
+      "short": "Dre",
+      "firstName": "Anja",
+      "lastName": "Drechsel"
+    },
+    {
+      "id": 130,
+      "name": "Viola Gaede",
+      "short": "Gaed",
+      "firstName": "Viola",
+      "lastName": "Gaede"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Max",
+      "lastName": "Mustermann",
+      "classId": 1,
+      "email": "max@schule.de"
+    },
+    {
+      "id": 2,
+      "firstName": "Antonia",
+      "lastName": "Wiskemann",
+      "classId": 1,
+      "email": "antonia@schule.de"
+    },
+    {
+      "id": 3,
+      "firstName": "Alexander",
+      "lastName": "Lück",
+      "classId": 1,
+      "email": "alex@schule.de"
+    },
+    {
+      "id": 4,
+      "firstName": "Lena",
+      "lastName": "Berger",
+      "classId": 2,
+      "email": "lena@schule.de"
+    },
+    {
+      "id": 5,
+      "firstName": "Jonas",
+      "lastName": "Keller",
+      "classId": 3,
+      "email": "jonas@schule.de"
+    },
+    {
+      "id": 6,
+      "firstName": "Mia",
+      "lastName": "Schulz",
+      "classId": 4,
+      "email": "mia@schule.de"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Nachschreiben",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "location": "Raum 222",
+      "classId": 1,
+      "type": "exam"
+    },
+    {
+      "id": 2,
+      "title": "Schulfotoaktionswoche",
+      "date": "2026-11-23",
+      "endDate": "2026-11-26",
+      "time": "",
+      "location": "Aula",
+      "classId": null,
+      "type": "event"
+    },
+    {
+      "id": 3,
+      "title": "Nachschreiben",
+      "date": "2026-12-05",
+      "time": "11:00",
+      "location": "Raum 222",
+      "classId": 1,
+      "type": "exam"
+    },
+    {
+      "id": 4,
+      "title": "Schul-Weihnachtsmarkt",
+      "date": "2026-12-17",
+      "time": "17:00",
+      "location": "Schulhof",
+      "classId": null,
+      "type": "event"
+    },
+    {
+      "id": 5,
+      "title": "Ausgabe der Notenkarten",
+      "date": "2026-12-18",
+      "time": "",
+      "location": "Klassenzimmer",
+      "classId": 1,
+      "type": "event"
+    }
+  ],
+  "exams": [
+    {
+      "id": 1,
+      "subjectId": 4,
+      "classId": 1,
+      "date": "2026-11-24",
+      "slotFrom": 1,
+      "slotTo": 2,
+      "room": "222",
+      "teacherId": 1,
+      "note": "Ethikunterricht"
+    },
+    {
+      "id": 2,
+      "subjectId": 5,
+      "classId": 1,
+      "date": "2026-11-30",
+      "slotFrom": 5,
+      "slotTo": 5,
+      "room": "222",
+      "teacherId": 1,
+      "note": "Geografie"
+    },
+    {
+      "id": 3,
+      "subjectId": 3,
+      "classId": 1,
+      "date": "2026-12-02",
+      "slotFrom": 1,
+      "slotTo": 2,
+      "room": "219",
+      "teacherId": 1,
+      "note": "Französisch"
+    },
+    {
+      "id": 4,
+      "subjectId": 2,
+      "classId": 1,
+      "date": "2026-12-09",
+      "slotFrom": 3,
+      "slotTo": 4,
+      "room": "222",
+      "teacherId": 1,
+      "note": "Mathematik"
+    }
+  ],
+  "threads": [
+    {
+      "id": 1,
+      "subject": "Klassenarbeit Geographie",
+      "classId": 1,
+      "authorId": 2,
+      "createdAt": "2026-11-19T08:58:00",
+      "unread": 1,
+      "archived": false,
+      "participants": "Schüler der Klasse 8-2"
+    },
+    {
+      "id": 2,
+      "subject": "Sozialkunde 8-2",
+      "classId": 1,
+      "authorId": 2,
+      "createdAt": "2026-11-19T07:05:00",
+      "unread": 3,
+      "archived": false,
+      "participants": "Schüler der Klasse 8-2, Antonia Wiskemann, Alexander Lück"
+    },
+    {
+      "id": 3,
+      "subject": "Waffeln am Mittwoch (18.11)",
+      "classId": null,
+      "authorId": 2,
+      "createdAt": "2026-11-17T09:00:00",
+      "unread": 0,
+      "archived": false,
+      "participants": "Alle Schüler"
+    },
+    {
+      "id": 4,
+      "subject": "Bitte um Kenntnisnahme des Schulleiterbriefes",
+      "classId": null,
+      "authorId": 2,
+      "createdAt": "2026-11-10T09:00:00",
+      "unread": 0,
+      "archived": false,
+      "participants": "Alle Schüler, Alle Lehrkräfte, Alle Eltern"
+    },
+    {
+      "id": 5,
+      "subject": "Test morgen",
+      "classId": 1,
+      "authorId": 2,
+      "createdAt": "2026-10-14T14:00:00",
+      "unread": 1,
+      "archived": false,
+      "participants": "Schüler der Klasse 8-2"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "threadId": 1,
+      "authorId": 2,
+      "body": "Die Klassenarbeit Geographie findet am Montag statt. Bitte Kapitel 3 und 4 wiederholen.",
+      "createdAt": "2026-11-19T08:58:00"
+    },
+    {
+      "id": 2,
+      "threadId": 2,
+      "authorId": 2,
+      "body": "Bitte bringt das Arbeitsheft mit.",
+      "createdAt": "2026-11-19T07:05:00"
+    },
+    {
+      "id": 3,
+      "threadId": 2,
+      "authorId": 3,
+      "body": "Ist die Aufgabe auf Seite 42 gemeint?",
+      "createdAt": "2026-11-19T07:20:00"
+    },
+    {
+      "id": 4,
+      "threadId": 2,
+      "authorId": 2,
+      "body": "Ja, genau die.",
+      "createdAt": "2026-11-19T07:28:00"
+    },
+    {
+      "id": 5,
+      "threadId": 3,
+      "authorId": 2,
+      "body": "Am Mittwoch verkauft die Klasse 8-2 Waffeln in der ersten großen Pause.",
+      "createdAt": "2026-11-17T09:00:00"
+    },
+    {
+      "id": 6,
+      "threadId": 4,
+      "authorId": 2,
+      "body": "Der Brief des Schulleiters liegt im Anhang. Bitte um Kenntnisnahme.",
+      "createdAt": "2026-11-10T09:00:00"
+    },
+    {
+      "id": 7,
+      "threadId": 5,
+      "authorId": 2,
+      "body": "Kurzer Test über die Vokabeln der Lektion 5.",
+      "createdAt": "2026-10-14T14:00:00"
+    },
+    {
+      "id": 8,
+      "threadId": 1,
+      "authorId": 3,
+      "body": "Danke für die Info!",
+      "createdAt": "2026-11-19T09:10:00"
+    },
+    {
+      "id": 9,
+      "threadId": 3,
+      "authorId": 2,
+      "body": "Wer mithelfen möchte, meldet sich bei mir.",
+      "createdAt": "2026-11-17T09:20:00"
+    }
+  ],
+  "homework": [
+    {
+      "id": 1,
+      "subjectId": 2,
+      "classId": 1,
+      "dueDate": "2026-11-20",
+      "text": "Buch S. 42, Aufgabe 3 und 4",
+      "teacherId": 46
+    },
+    {
+      "id": 2,
+      "subjectId": 1,
+      "classId": 1,
+      "dueDate": "2026-11-20",
+      "text": "Erörterung: Entwurf fertigstellen",
+      "teacherId": 99
+    },
+    {
+      "id": 3,
+      "subjectId": 3,
+      "classId": 1,
+      "dueDate": "2026-11-23",
+      "text": "Vokabeln Lektion 5 wiederholen",
+      "teacherId": 113
+    },
+    {
+      "id": 4,
+      "subjectId": 7,
+      "classId": 1,
+      "dueDate": "2026-11-24",
+      "text": "Arbeitsblatt Periodensystem",
+      "teacherId": 122
+    }
+  ],
+  "detentions": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "subjectId": 2,
+      "date": "2026-11-20",
+      "slot": "7",
+      "room": "222",
+      "teacherId": 46,
+      "reason": "Hausaufgaben nicht erledigt",
+      "done": false
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "subjectId": 1,
+      "date": "2026-11-18",
+      "slot": "8",
+      "room": "222",
+      "teacherId": 99,
+      "reason": "Verspätung",
+      "done": true
+    },
+    {
+      "id": 3,
+      "studentId": 3,
+      "subjectId": 5,
+      "date": "2026-11-25",
+      "slot": "6",
+      "room": "222",
+      "teacherId": 69,
+      "reason": "Material vergessen",
+      "done": false
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "title": "Klassenfahrt 2027",
+      "amount": 180,
+      "dueDate": "2027-01-15",
+      "paid": false,
+      "paidAt": null
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "title": "Schulbuchausleihe",
+      "amount": 32.5,
+      "dueDate": "2026-10-01",
+      "paid": true,
+      "paidAt": "2026-09-28"
+    },
+    {
+      "id": 3,
+      "studentId": 2,
+      "title": "Klassenfahrt 2027",
+      "amount": 180,
+      "dueDate": "2027-01-15",
+      "paid": true,
+      "paidAt": "2026-11-02"
+    },
+    {
+      "id": 4,
+      "studentId": 3,
+      "title": "Kopiergeld Halbjahr",
+      "amount": 6,
+      "dueDate": "2026-11-30",
+      "paid": false,
+      "paidAt": null
+    }
+  ],
+  "letters": [
+    {
+      "id": 1,
+      "title": "Schulleiterbrief November",
+      "date": "2026-11-10",
+      "audience": "Alle Eltern",
+      "body": "Sehr geehrte Eltern, anbei finden Sie den aktuellen Schulleiterbrief mit den wichtigsten Terminen des Halbjahres.",
+      "requiresSignature": true
+    },
+    {
+      "id": 2,
+      "title": "Information Schulfotoaktionswoche",
+      "date": "2026-11-14",
+      "audience": "Alle Eltern",
+      "body": "In der Woche vom 23. bis 26. November finden die Schulfotos statt.",
+      "requiresSignature": false
+    },
+    {
+      "id": 3,
+      "title": "Einverständnis Klassenfahrt",
+      "date": "2026-10-20",
+      "audience": "Eltern der Klasse 8-2",
+      "body": "Bitte geben Sie das Einverständnis zur Klassenfahrt bis zum 15.12. zurück.",
+      "requiresSignature": true
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "day": 1,
+      "slot": 1,
+      "week": "B",
+      "subjectId": 1,
+      "teacherId": 99,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "slot": 2,
+      "week": "B",
+      "subjectId": 1,
+      "teacherId": 99,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 3,
+      "day": 1,
+      "slot": 3,
+      "week": "B",
+      "subjectId": 7,
+      "teacherId": 122,
+      "classId": 1,
+      "room": "303",
+      "status": "substitution",
+      "oldSubjectId": null,
+      "oldTeacherId": 50,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 4,
+      "day": 1,
+      "slot": 4,
+      "week": "B",
+      "subjectId": 7,
+      "teacherId": 122,
+      "classId": 1,
+      "room": "303",
+      "status": "substitution",
+      "oldSubjectId": null,
+      "oldTeacherId": 50,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 5,
+      "day": 1,
+      "slot": 5,
+      "week": "B",
+      "subjectId": 13,
+      "teacherId": 54,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 6,
+      "day": 2,
+      "slot": 1,
+      "week": "B",
+      "subjectId": 4,
+      "teacherId": 22,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 7,
+      "day": 2,
+      "slot": 2,
+      "week": "B",
+      "subjectId": 4,
+      "teacherId": 22,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 8,
+      "day": 2,
+      "slot": 3,
+      "week": "B",
+      "subjectId": 2,
+      "teacherId": 46,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": null,
+      "oldTeacherId": 50,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 9,
+      "day": 2,
+      "slot": 4,
+      "week": "B",
+      "subjectId": 2,
+      "teacherId": 46,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": null,
+      "oldTeacherId": 50,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 10,
+      "day": 2,
+      "slot": 5,
+      "week": "B",
+      "subjectId": 16,
+      "teacherId": 62,
+      "classId": 1,
+      "room": "103",
+      "status": "substitution",
+      "oldSubjectId": 10,
+      "oldTeacherId": 125,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 11,
+      "day": 2,
+      "slot": 6,
+      "week": "B",
+      "subjectId": 16,
+      "teacherId": 62,
+      "classId": 1,
+      "room": "103",
+      "status": "substitution",
+      "oldSubjectId": 10,
+      "oldTeacherId": 125,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 12,
+      "day": 2,
+      "slot": 7,
+      "week": "B",
+      "subjectId": 3,
+      "teacherId": 113,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 13,
+      "day": 2,
+      "slot": 8,
+      "week": "B",
+      "subjectId": 3,
+      "teacherId": 113,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 14,
+      "day": 3,
+      "slot": 1,
+      "week": "B",
+      "subjectId": 16,
+      "teacherId": 62,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": 9,
+      "oldTeacherId": 69,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 15,
+      "day": 3,
+      "slot": 2,
+      "week": "B",
+      "subjectId": 16,
+      "teacherId": 62,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": 9,
+      "oldTeacherId": 69,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 16,
+      "day": 3,
+      "slot": 3,
+      "week": "B",
+      "subjectId": 1,
+      "teacherId": 99,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 17,
+      "day": 3,
+      "slot": 4,
+      "week": "B",
+      "subjectId": 1,
+      "teacherId": 99,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 18,
+      "day": 3,
+      "slot": 5,
+      "week": "B",
+      "subjectId": 8,
+      "teacherId": 102,
+      "classId": 1,
+      "room": "GTH",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 19,
+      "day": 3,
+      "slot": 6,
+      "week": "B",
+      "subjectId": 8,
+      "teacherId": 102,
+      "classId": 1,
+      "room": "GTH",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 20,
+      "day": 4,
+      "slot": 1,
+      "week": "B",
+      "subjectId": 6,
+      "teacherId": 38,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 21,
+      "day": 4,
+      "slot": 2,
+      "week": "B",
+      "subjectId": 6,
+      "teacherId": 38,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 22,
+      "day": 4,
+      "slot": 3,
+      "week": "B",
+      "subjectId": 11,
+      "teacherId": 25,
+      "classId": 1,
+      "room": "010",
+      "status": "substitution",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": 54,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 23,
+      "day": 4,
+      "slot": 3,
+      "week": "B",
+      "subjectId": 12,
+      "teacherId": 102,
+      "classId": 1,
+      "room": "121",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 24,
+      "day": 4,
+      "slot": 4,
+      "week": "B",
+      "subjectId": 11,
+      "teacherId": 25,
+      "classId": 1,
+      "room": "010",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 25,
+      "day": 4,
+      "slot": 4,
+      "week": "B",
+      "subjectId": 12,
+      "teacherId": 102,
+      "classId": 1,
+      "room": "121",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 26,
+      "day": 4,
+      "slot": 5,
+      "week": "B",
+      "subjectId": 14,
+      "teacherId": 82,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 27,
+      "day": 4,
+      "slot": 6,
+      "week": "B",
+      "subjectId": 15,
+      "teacherId": 102,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 28,
+      "day": 4,
+      "slot": 7,
+      "week": "B",
+      "subjectId": 2,
+      "teacherId": 50,
+      "classId": 1,
+      "room": "222",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 29,
+      "day": 4,
+      "slot": 8,
+      "week": "B",
+      "subjectId": 2,
+      "teacherId": 50,
+      "classId": 1,
+      "room": "222",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 30,
+      "day": 5,
+      "slot": 1,
+      "week": "B",
+      "subjectId": 5,
+      "teacherId": 69,
+      "classId": 1,
+      "room": "222",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 31,
+      "day": 5,
+      "slot": 2,
+      "week": "B",
+      "subjectId": 5,
+      "teacherId": 69,
+      "classId": 1,
+      "room": "222",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 32,
+      "day": 5,
+      "slot": 3,
+      "week": "B",
+      "subjectId": 3,
+      "teacherId": 17,
+      "classId": 1,
+      "room": "219",
+      "status": "substitution",
+      "oldSubjectId": 9,
+      "oldTeacherId": 69,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 33,
+      "day": 5,
+      "slot": 4,
+      "week": "B",
+      "subjectId": 3,
+      "teacherId": 17,
+      "classId": 1,
+      "room": "219",
+      "status": "substitution",
+      "oldSubjectId": 9,
+      "oldTeacherId": 69,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 34,
+      "day": 5,
+      "slot": 5,
+      "week": "B",
+      "subjectId": 2,
+      "teacherId": 34,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": 3,
+      "oldTeacherId": 113,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 35,
+      "day": 5,
+      "slot": 6,
+      "week": "B",
+      "subjectId": 2,
+      "teacherId": 34,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": 3,
+      "oldTeacherId": 113,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 101,
+      "day": 4,
+      "slot": 1,
+      "week": "A",
+      "subjectId": 18,
+      "teacherId": 93,
+      "classId": 1,
+      "room": "309",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 102,
+      "day": 4,
+      "slot": 1,
+      "week": "A",
+      "subjectId": 4,
+      "teacherId": 22,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 103,
+      "day": 5,
+      "slot": 1,
+      "week": "A",
+      "subjectId": 5,
+      "teacherId": 69,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 104,
+      "day": 4,
+      "slot": 2,
+      "week": "A",
+      "subjectId": 18,
+      "teacherId": 93,
+      "classId": 1,
+      "room": "309",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 105,
+      "day": 4,
+      "slot": 2,
+      "week": "A",
+      "subjectId": 4,
+      "teacherId": 22,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 106,
+      "day": 5,
+      "slot": 2,
+      "week": "A",
+      "subjectId": 5,
+      "teacherId": 69,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 107,
+      "day": 4,
+      "slot": 3,
+      "week": "A",
+      "subjectId": 19,
+      "teacherId": 124,
+      "classId": 1,
+      "room": "204",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 108,
+      "day": 5,
+      "slot": 3,
+      "week": "A",
+      "subjectId": 20,
+      "teacherId": 43,
+      "classId": 1,
+      "room": "234",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 109,
+      "day": 4,
+      "slot": 4,
+      "week": "A",
+      "subjectId": 19,
+      "teacherId": 124,
+      "classId": 1,
+      "room": "204",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 110,
+      "day": 5,
+      "slot": 4,
+      "week": "A",
+      "subjectId": 20,
+      "teacherId": 43,
+      "classId": 1,
+      "room": "234",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 111,
+      "day": 4,
+      "slot": 5,
+      "week": "A",
+      "subjectId": 14,
+      "teacherId": 74,
+      "classId": 1,
+      "room": "222",
+      "status": "substitution",
+      "oldSubjectId": 22,
+      "oldTeacherId": 96,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 112,
+      "day": 5,
+      "slot": 5,
+      "week": "A",
+      "subjectId": 21,
+      "teacherId": 103,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 113,
+      "day": 4,
+      "slot": 6,
+      "week": "A",
+      "subjectId": 15,
+      "teacherId": 102,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 114,
+      "day": 5,
+      "slot": 6,
+      "week": "A",
+      "subjectId": 21,
+      "teacherId": 103,
+      "classId": 1,
+      "room": "222",
+      "status": "normal",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": false,
+      "note": ""
+    },
+    {
+      "id": 115,
+      "day": 4,
+      "slot": 7,
+      "week": "A",
+      "subjectId": 2,
+      "teacherId": 50,
+      "classId": 1,
+      "room": "222",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    },
+    {
+      "id": 116,
+      "day": 4,
+      "slot": 8,
+      "week": "A",
+      "subjectId": 2,
+      "teacherId": 50,
+      "classId": 1,
+      "room": "222",
+      "status": "cancelled",
+      "oldSubjectId": null,
+      "oldTeacherId": null,
+      "substituteSubjectId": null,
+      "substituteTeacherId": null,
+      "changed": true,
+      "note": ""
+    }
+  ],
+  "widgets": [
+    {
+      "id": 1,
+      "key": "events",
+      "title": "Kommende Termine",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "key": "exams",
+      "title": "Klassenarbeiten",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": 3,
+      "key": "cloud",
+      "title": "Nextcloud im Browser",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": 4,
+      "key": "homework",
+      "title": "Hausaufgaben",
+      "enabled": true,
+      "order": 4
+    }
+  ]
+}

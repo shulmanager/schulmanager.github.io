@@ -1,0 +1,20 @@
+[
+ {
+  "label": "Elternsprechtag 1. Halbjahr",
+  "id": 31286,
+  "start": "2026-11-04T15:00:00.000Z",
+  "end": "2026-11-04T18:00:00.000Z",
+  "inscriptionStart": "2026-10-12T04:00:00.000Z",
+  "inscriptionEnd": "2026-11-04T17:00:00.000Z",
+  "appointmentLength": 720000,
+  "maximumAppointmentsPerStudent": 8,
+  "teachersCanEnterBreaks": true,
+  "teachersCanCancelAppointments": true,
+  "allowInscriptionForStudents": false,
+  "allowInscriptionForParents": true,
+  "requestContactData": true,
+  "dontScheduleBreaksForParents": true,
+  "createdAt": "2026-08-13T15:05:39.927Z",
+  "updatedAt": "2026-10-02T10:23:57.584Z"
+ }
+]

@@ -1,0 +1,660 @@
+[
+ {
+  "abbreviation": "Eth",
+  "name": "Ethikunterricht",
+  "asvKey": null,
+  "id": 586898,
+  "aliases": [
+   "Eth"
+  ],
+  "officialKey": "ETH",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-11-15T09:33:22.958Z"
+ },
+ {
+  "abbreviation": "LZM",
+  "name": "Lernzeit Mathematik",
+  "asvKey": null,
+  "id": 587083,
+  "aliases": [
+   "LZM"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T12:26:54.250Z",
+  "updatedAt": "2026-04-08T12:53:18.383Z"
+ },
+ {
+  "abbreviation": "LZD",
+  "name": "Lernzeit Deutsch",
+  "asvKey": null,
+  "id": 587081,
+  "aliases": [
+   "LZD"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T12:26:54.250Z",
+  "updatedAt": "2026-04-08T12:52:55.544Z"
+ },
+ {
+  "abbreviation": "EvR",
+  "name": "Evang. Religionsunterricht",
+  "asvKey": null,
+  "id": 586902,
+  "aliases": [
+   "EvR"
+  ],
+  "officialKey": "RE/e",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:16.930Z"
+ },
+ {
+  "abbreviation": "Soz",
+  "name": "Sozialkunde",
+  "asvKey": null,
+  "id": 586987,
+  "aliases": [
+   "Soz"
+  ],
+  "officialKey": "SK",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.777Z"
+ },
+ {
+  "abbreviation": "Wil",
+  "name": "Wirtschaftslehre",
+  "asvKey": null,
+  "id": 587035,
+  "aliases": [
+   "Wil"
+  ],
+  "officialKey": "WI",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:20.063Z"
+ },
+ {
+  "abbreviation": "Che",
+  "name": "Chemie",
+  "asvKey": null,
+  "id": 586879,
+  "aliases": [
+   "Che"
+  ],
+  "officialKey": "CH",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:15.025Z"
+ },
+ {
+  "abbreviation": "Eng",
+  "name": "Englisch",
+  "asvKey": null,
+  "id": 586894,
+  "aliases": [
+   "Eng"
+  ],
+  "officialKey": "EN",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:15.939Z"
+ },
+ {
+  "abbreviation": "Frz",
+  "name": "Französisch",
+  "asvKey": null,
+  "id": 586907,
+  "aliases": [
+   "Frz",
+   "Frzn"
+  ],
+  "officialKey": "FR",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:17.031Z"
+ },
+ {
+  "abbreviation": "frzn",
+  "name": "Französisch Neubeginner 11",
+  "asvKey": null,
+  "id": 586910,
+  "aliases": [
+   "frzn",
+   "Frzn"
+  ],
+  "officialKey": "FR",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-02-02T10:36:48.381Z"
+ },
+ {
+  "abbreviation": "Geo",
+  "name": "Geografie",
+  "asvKey": null,
+  "id": 586912,
+  "aliases": [
+   "Geo"
+  ],
+  "officialKey": "GEO",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:17.437Z"
+ },
+ {
+  "abbreviation": "HA",
+  "name": "Hausaufgabenbetreuung",
+  "asvKey": null,
+  "id": 586924,
+  "aliases": [
+   "HA"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:32:48.876Z"
+ },
+ {
+  "abbreviation": "KL",
+  "name": "Kassenleiterstunde",
+  "asvKey": null,
+  "id": 586937,
+  "aliases": [
+   "KL"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:32:02.811Z"
+ },
+ {
+  "abbreviation": "Mus",
+  "name": "Musik",
+  "asvKey": null,
+  "id": 586954,
+  "aliases": [
+   "Mus"
+  ],
+  "officialKey": "MU",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.430Z"
+ },
+ {
+  "abbreviation": "Prüf",
+  "name": "Prüfung",
+  "asvKey": null,
+  "id": 586970,
+  "aliases": [
+   "Prüf"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:33:55.723Z"
+ },
+ {
+  "abbreviation": "Psy",
+  "name": "Psychologie",
+  "asvKey": null,
+  "id": 586971,
+  "aliases": [
+   "Psy"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T07:33:56.941Z"
+ },
+ {
+  "abbreviation": "Rus",
+  "name": "Russisch",
+  "asvKey": null,
+  "id": 586982,
+  "aliases": [
+   "Rus"
+  ],
+  "officialKey": "RU",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.697Z"
+ },
+ {
+  "abbreviation": "Tec",
+  "name": "Technik",
+  "asvKey": null,
+  "id": 587022,
+  "aliases": [
+   "Tec"
+  ],
+  "officialKey": "TEC",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:20.026Z"
+ },
+ {
+  "abbreviation": "Wir",
+  "name": "Wirtschaft (SEK, Gesamtschule)",
+  "asvKey": null,
+  "id": 587037,
+  "aliases": [
+   "Wir"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T07:33:57.238Z"
+ },
+ {
+  "abbreviation": "WpK",
+  "name": "Wahlplfichtkurs",
+  "asvKey": null,
+  "id": 587038,
+  "aliases": [
+   "WpK"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T07:33:57.243Z"
+ },
+ {
+  "abbreviation": "Bio",
+  "name": "Biologie",
+  "asvKey": null,
+  "id": 586870,
+  "aliases": [
+   "Bio"
+  ],
+  "officialKey": "BIO",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:13.263Z"
+ },
+ {
+  "abbreviation": "Ast",
+  "name": "Astronomie",
+  "asvKey": null,
+  "id": 586866,
+  "aliases": [
+   "Ast"
+  ],
+  "officialKey": "AST",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:10.324Z"
+ },
+ {
+  "abbreviation": "Ges",
+  "name": "Geschichte",
+  "asvKey": null,
+  "id": 586916,
+  "aliases": [
+   "Ges"
+  ],
+  "officialKey": "GE",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:17.685Z"
+ },
+ {
+  "abbreviation": "Deu",
+  "name": "Deutsch",
+  "asvKey": null,
+  "id": 586886,
+  "aliases": [
+   "Deu"
+  ],
+  "officialKey": "DE",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:15.476Z"
+ },
+ {
+  "abbreviation": "HWi",
+  "name": "Hauswirtschaft",
+  "asvKey": null,
+  "id": 586927,
+  "aliases": [
+   "HWi"
+  ],
+  "officialKey": "HW",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:17.913Z"
+ },
+ {
+  "abbreviation": "Ita",
+  "name": "Italienisch",
+  "asvKey": null,
+  "id": 586933,
+  "aliases": [
+   "Ita"
+  ],
+  "officialKey": "ITA",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:17.957Z"
+ },
+ {
+  "abbreviation": "Kun",
+  "name": "Kunsterziehung",
+  "asvKey": null,
+  "id": 586940,
+  "aliases": [
+   "Kun"
+  ],
+  "officialKey": "KUE",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.006Z"
+ },
+ {
+  "abbreviation": "Mat",
+  "name": "Mathematik",
+  "asvKey": null,
+  "id": 586947,
+  "aliases": [
+   "Mat"
+  ],
+  "officialKey": "MA",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.245Z"
+ },
+ {
+  "abbreviation": "Phy",
+  "name": "Physik",
+  "asvKey": null,
+  "id": 586963,
+  "aliases": [
+   "Phy"
+  ],
+  "officialKey": "PH",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.507Z"
+ },
+ {
+  "abbreviation": "Spo",
+  "name": "Sport",
+  "asvKey": null,
+  "id": 586999,
+  "aliases": [
+   "Spo"
+  ],
+  "officialKey": "SPO",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-01-28T13:57:18.956Z"
+ },
+ {
+  "abbreviation": "Inf",
+  "name": "Informatik",
+  "asvKey": null,
+  "id": 586931,
+  "aliases": [
+   "Inf"
+  ],
+  "officialKey": "INF",
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": true,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-02-18T09:10:58.364Z"
+ },
+ {
+  "abbreviation": "GU",
+  "name": "GU",
+  "asvKey": null,
+  "id": 586923,
+  "aliases": [
+   "GU"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:32:43.345Z"
+ },
+ {
+  "abbreviation": "AG",
+  "name": "Arbeitsgemeinschaft",
+  "asvKey": null,
+  "id": 586861,
+  "aliases": [
+   "AG"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:32:08.092Z"
+ },
+ {
+  "abbreviation": "Betr",
+  "name": "Betreuung",
+  "asvKey": null,
+  "id": 586869,
+  "aliases": [
+   "Betr"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:32:21.306Z"
+ },
+ {
+  "abbreviation": "LZE",
+  "name": "Lernzeit Englisch",
+  "asvKey": null,
+  "id": 587082,
+  "aliases": [
+   "LZE"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T12:26:54.250Z",
+  "updatedAt": "2026-04-08T12:53:04.299Z"
+ },
+ {
+  "abbreviation": "MT",
+  "name": "Methodentraining",
+  "asvKey": null,
+  "id": 587084,
+  "aliases": [
+   "MT"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T12:26:54.250Z",
+  "updatedAt": "2026-04-08T12:53:37.834Z"
+ },
+ {
+  "abbreviation": "PU",
+  "name": "Projektunterricht",
+  "asvKey": null,
+  "id": 586973,
+  "aliases": [
+   "PU"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": true,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-03-12T08:01:12.424Z"
+ },
+ {
+  "abbreviation": "PVD",
+  "name": "Prüfungsvorbereitung Deutsch",
+  "asvKey": null,
+  "id": 586974,
+  "aliases": [
+   "PVD"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:33:43.856Z"
+ },
+ {
+  "abbreviation": "PVE",
+  "name": "Prüfungsvorbereitung Englisch",
+  "asvKey": null,
+  "id": 586975,
+  "aliases": [
+   "PVE"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:33:52.928Z"
+ },
+ {
+  "abbreviation": "PVM",
+  "name": "Prüfungvorbereitung Mathe",
+  "asvKey": null,
+  "id": 586976,
+  "aliases": [
+   "PVM"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-04-14T08:34:01.852Z"
+ },
+ {
+  "abbreviation": "Trai",
+  "name": "Trainingsraum",
+  "asvKey": null,
+  "id": 587024,
+  "aliases": [
+   "Trai"
+  ],
+  "officialKey": null,
+  "color": null,
+  "isPseudoSubject": false,
+  "orderIndex": null,
+  "isGraded": false,
+  "createdAt": "2026-01-28T07:31:42.560Z",
+  "updatedAt": "2026-03-12T08:01:12.495Z"
+ }
+]

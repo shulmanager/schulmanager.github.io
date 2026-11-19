@@ -1,0 +1,51 @@
+[
+ {
+  "name": "Ich möchte keine AG belegen",
+  "id": 256023,
+  "createdAt": "2026-08-28T10:35:34.824Z",
+  "updatedAt": "2026-08-28T10:35:34.824Z",
+  "electionId": 23603
+ },
+ {
+  "name": "Schulchor Jg 7-13",
+  "id": 256018,
+  "createdAt": "2026-08-28T10:35:34.799Z",
+  "updatedAt": "2026-09-04T06:24:20.364Z",
+  "electionId": 23603
+ },
+ {
+  "name": "Cheerleading-AG Jg 7-9",
+  "id": 256020,
+  "createdAt": "2026-08-28T10:35:34.809Z",
+  "updatedAt": "2026-09-04T06:24:58.196Z",
+  "electionId": 23603
+ },
+ {
+  "name": "Schul IT und Medien AG Jg 7-13",
+  "id": 256019,
+  "createdAt": "2026-08-28T10:35:34.804Z",
+  "updatedAt": "2026-09-04T06:25:58.707Z",
+  "electionId": 23603
+ },
+ {
+  "name": "AG Vertrauensschüler Jg 7-13",
+  "id": 256022,
+  "createdAt": "2026-08-28T10:35:34.818Z",
+  "updatedAt": "2026-09-04T06:26:20.774Z",
+  "electionId": 23603
+ },
+ {
+  "name": "SCHULSANITÄTSDIENST Jg 7-10",
+  "id": 256017,
+  "createdAt": "2026-08-28T10:35:34.792Z",
+  "updatedAt": "2026-08-31T05:22:58.175Z",
+  "electionId": 23603
+ },
+ {
+  "name": "Robotik-AG Jg 7-13",
+  "id": 256021,
+  "createdAt": "2026-08-28T10:35:34.814Z",
+  "updatedAt": "2026-09-04T06:24:50.860Z",
+  "electionId": 23603
+ }
+]

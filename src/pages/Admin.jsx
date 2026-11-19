@@ -232,6 +232,38 @@ export default function Admin() {
   const rows = data?.[active] || [];
   const cols = SCHEMA[active].fields;
 
+  // Stundenplan als Paare: gleiche Stunde in Folge (1-2, 3-4, ...) wird eine Zeile
+  const lessonKey = (l) =>
+    [l.isoWeek || "", l.day, l.subjectId, l.teacherId, l.room || "", l.status || "",
+      l.oldSubjectId || "", l.oldTeacherId || ""].join("|");
+
+  const displayRows = useMemo(() => {
+    if (active !== "lessons") return rows;
+    const sorted = [...rows].sort(
+      (a, b) => (Number(a.isoWeek) || 0) - (Number(b.isoWeek) || 0) ||
+        Number(a.day) - Number(b.day) || Number(a.slot) - Number(b.slot) || a.id - b.id
+    );
+    const used = new Set();
+    const out = [];
+    for (const lesson of sorted) {
+      if (used.has(lesson.id)) continue;
+      const members = [lesson];
+      used.add(lesson.id);
+      let slot = Number(lesson.slot);
+      for (;;) {
+        const next = sorted.find(
+          (x) => !used.has(x.id) && lessonKey(x) === lessonKey(lesson) && Number(x.slot) === slot + 1
+        );
+        if (!next) break;
+        members.push(next);
+        used.add(next.id);
+        slot += 1;
+      }
+      out.push({ ...lesson, _members: members, _from: Number(lesson.slot), _to: slot });
+    }
+    return out;
+  }, [rows, active]);
+
   function flash(msg) {
     setToast(msg);
     window.clearTimeout(flash._t);
@@ -260,15 +292,30 @@ export default function Admin() {
   async function save() {
     setBusy(true);
     try {
-      const payload = { ...draft };
+      const payload = Object.fromEntries(
+        Object.entries(draft).filter(([k]) => !k.startsWith("_"))
+      );
       if (active === "lessons") {
         payload.changed =
           payload.status !== "normal" ||
           (payload.oldSubjectId != null && payload.oldSubjectId !== "") ||
           (payload.oldTeacherId != null && payload.oldTeacherId !== "");
       }
-      if (editing) await api.update(active, editing.id, payload);
-      else await api.create(active, payload);
+      if (editing && editing._members && editing._members.length > 1) {
+        // Paar: gemeinsame Felder auf alle Stunden schreiben, Stunde fortlaufend
+        const shared = { ...payload };
+        delete shared.slot;
+        const startSlot = Number(payload.slot) || editing._from;
+        let offset = 0;
+        for (const member of editing._members) {
+          await api.update("lessons", member.id, { ...shared, slot: startSlot + offset });
+          offset += 1;
+        }
+      } else if (editing) {
+        await api.update(active, editing.id, payload);
+      } else {
+        await api.create(active, payload);
+      }
       await reload();
       setCreating(false);
       flash("Gespeichert.");
@@ -280,10 +327,12 @@ export default function Admin() {
   }
 
   async function remove(row) {
-    if (!window.confirm(`Eintrag #${row.id} wirklich löschen?`)) return;
+    const members = row._members && row._members.length ? row._members : [row];
+    const label = members.length > 1 ? `Paar (${members.length} Stunden)` : `Eintrag #${row.id}`;
+    if (!window.confirm(`${label} wirklich löschen?`)) return;
     setBusy(true);
     try {
-      await api.remove(active, row.id);
+      for (const member of members) await api.remove(active, member.id);
       await reload();
       flash("Gelöscht.");
     } finally {
@@ -398,7 +447,7 @@ export default function Admin() {
               </tr>
             </thead>
             <tbody>
-              {rows.map((row) => (
+              {displayRows.map((row) => (
                 <tr key={row.id}>
                   <td className="text-muted">{row.id}</td>
                   {cols.map(([key, , type, ref]) => (
@@ -411,6 +460,13 @@ export default function Admin() {
                         <span>
                           {lessonDayDate(row)}
                           <span className="text-muted small ms-1">Tag {row[key]}</span>
+                        </span>
+                      ) : active === "lessons" && key === "slot" ? (
+                        <span>
+                          {row._from === row._to ? row._from : `${row._from}–${row._to}`}
+                          {row._from !== row._to && (
+                            <span className="text-muted small ms-1">Paar</span>
+                          )}
                         </span>
                       ) : key === "password" ? (
                         "••••••"
